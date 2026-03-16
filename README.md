@@ -23,6 +23,7 @@ Technical Details
 • Tool: Google bigquery and Tableau Public
 • Data Sources: Public dataset from Kaggle (https://www.kaggle.com/datasets/pratyushpuri/wearable-health-devices-performance-analysis)
 • Key Visualizations:
+
     *   Battlecard (I): Price vs. Accuracy scatter plot to map market positioning and identify competitive "moats."
         -- sql script: Competitor Benchmarking & Battlecards. sql
         -- data result: Competitor Benchmarking & Battlecards.csv
