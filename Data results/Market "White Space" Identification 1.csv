@@ -1,0 +1,12 @@
+Category,price_tier,avg_performance,brand_density
+Fitness Tracker,Budget,69.813095238095258,2
+Fitness Tracker,Mid-Range,71.204651162790711,2
+Sports Watch,Budget,59.737634408602148,5
+Sports Watch,Mid-Range,61.548850574712624,5
+Sports Watch,Premium,64.036111111111126,1
+Smart Ring,Mid-Range,74.834444444444472,1
+Smart Ring,Premium,75.654901960784315,1
+Fitness Band,Budget,69.087445887445782,1
+Smartwatch,Mid-Range,60.838273381295,8
+Smartwatch,Budget,58.963414634146332,4
+Smartwatch,Premium,62.420145631067946,4

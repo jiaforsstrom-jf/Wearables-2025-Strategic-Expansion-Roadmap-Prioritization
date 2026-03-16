@@ -1,0 +1,2376 @@
+Brand,Model,Category,accuracy_rank,price_rank
+WHOOP,4.0,Fitness Band,1,1
+WHOOP,4.0,Fitness Band,2,1
+WHOOP,4.0,Fitness Band,2,1
+WHOOP,4.0,Fitness Band,4,1
+WHOOP,4.0,Fitness Band,4,1
+WHOOP,4.0,Fitness Band,6,1
+WHOOP,4.0,Fitness Band,7,1
+WHOOP,4.0,Fitness Band,7,1
+WHOOP,4.0,Fitness Band,9,1
+WHOOP,4.0,Fitness Band,10,1
+WHOOP,4.0,Fitness Band,11,1
+WHOOP,4.0,Fitness Band,12,1
+WHOOP,4.0,Fitness Band,13,1
+WHOOP,4.0,Fitness Band,14,1
+WHOOP,4.0,Fitness Band,15,1
+WHOOP,4.0,Fitness Band,16,1
+WHOOP,4.0,Fitness Band,17,1
+WHOOP,4.0,Fitness Band,18,1
+WHOOP,4.0,Fitness Band,19,1
+WHOOP,4.0,Fitness Band,20,1
+WHOOP,4.0,Fitness Band,20,1
+WHOOP,4.0,Fitness Band,22,1
+WHOOP,4.0,Fitness Band,23,1
+WHOOP,4.0,Fitness Band,24,1
+WHOOP,4.0,Fitness Band,25,1
+WHOOP,4.0,Fitness Band,26,1
+WHOOP,4.0,Fitness Band,27,1
+WHOOP,4.0,Fitness Band,28,1
+WHOOP,4.0,Fitness Band,28,1
+WHOOP,4.0,Fitness Band,30,1
+WHOOP,4.0,Fitness Band,31,1
+WHOOP,4.0,Fitness Band,32,1
+WHOOP,4.0,Fitness Band,32,1
+WHOOP,4.0,Fitness Band,34,1
+WHOOP,4.0,Fitness Band,35,1
+WHOOP,4.0,Fitness Band,36,1
+WHOOP,4.0,Fitness Band,37,1
+WHOOP,4.0,Fitness Band,38,1
+WHOOP,4.0,Fitness Band,39,1
+WHOOP,4.0,Fitness Band,40,1
+WHOOP,4.0,Fitness Band,41,1
+WHOOP,4.0,Fitness Band,42,1
+WHOOP,4.0,Fitness Band,43,1
+WHOOP,4.0,Fitness Band,44,1
+WHOOP,4.0,Fitness Band,45,1
+WHOOP,4.0,Fitness Band,46,1
+WHOOP,4.0,Fitness Band,46,1
+WHOOP,4.0,Fitness Band,46,1
+WHOOP,4.0,Fitness Band,49,1
+WHOOP,4.0,Fitness Band,50,1
+WHOOP,4.0,Fitness Band,51,1
+WHOOP,4.0,Fitness Band,52,1
+WHOOP,4.0,Fitness Band,53,1
+WHOOP,4.0,Fitness Band,53,1
+WHOOP,4.0,Fitness Band,55,1
+WHOOP,4.0,Fitness Band,55,1
+WHOOP,4.0,Fitness Band,57,1
+WHOOP,4.0,Fitness Band,58,1
+WHOOP,4.0,Fitness Band,59,1
+WHOOP,4.0,Fitness Band,60,1
+WHOOP,4.0,Fitness Band,60,1
+WHOOP,4.0,Fitness Band,62,1
+WHOOP,4.0,Fitness Band,62,1
+WHOOP,4.0,Fitness Band,64,1
+WHOOP,4.0,Fitness Band,65,1
+WHOOP,4.0,Fitness Band,66,1
+WHOOP,4.0,Fitness Band,67,1
+WHOOP,4.0,Fitness Band,67,1
+WHOOP,4.0,Fitness Band,69,1
+WHOOP,4.0,Fitness Band,70,1
+WHOOP,4.0,Fitness Band,71,1
+WHOOP,4.0,Fitness Band,72,1
+WHOOP,4.0,Fitness Band,73,1
+WHOOP,4.0,Fitness Band,74,1
+WHOOP,4.0,Fitness Band,74,1
+WHOOP,4.0,Fitness Band,76,1
+WHOOP,4.0,Fitness Band,77,1
+WHOOP,4.0,Fitness Band,78,1
+WHOOP,4.0,Fitness Band,79,1
+WHOOP,4.0,Fitness Band,80,1
+WHOOP,4.0,Fitness Band,81,1
+WHOOP,4.0,Fitness Band,82,1
+WHOOP,4.0,Fitness Band,83,1
+WHOOP,4.0,Fitness Band,84,1
+WHOOP,4.0,Fitness Band,84,1
+WHOOP,4.0,Fitness Band,86,1
+WHOOP,4.0,Fitness Band,87,1
+WHOOP,4.0,Fitness Band,88,1
+WHOOP,4.0,Fitness Band,89,1
+WHOOP,4.0,Fitness Band,90,1
+WHOOP,4.0,Fitness Band,91,1
+WHOOP,4.0,Fitness Band,92,1
+WHOOP,4.0,Fitness Band,93,1
+WHOOP,4.0,Fitness Band,94,1
+WHOOP,4.0,Fitness Band,94,1
+WHOOP,4.0,Fitness Band,96,1
+WHOOP,4.0,Fitness Band,97,1
+WHOOP,4.0,Fitness Band,98,1
+WHOOP,4.0,Fitness Band,98,1
+WHOOP,4.0,Fitness Band,100,1
+WHOOP,4.0,Fitness Band,101,1
+WHOOP,4.0,Fitness Band,102,1
+WHOOP,4.0,Fitness Band,103,1
+WHOOP,4.0,Fitness Band,104,1
+WHOOP,4.0,Fitness Band,105,1
+WHOOP,4.0,Fitness Band,106,1
+WHOOP,4.0,Fitness Band,107,1
+WHOOP,4.0,Fitness Band,108,1
+WHOOP,4.0,Fitness Band,109,1
+WHOOP,4.0,Fitness Band,110,1
+WHOOP,4.0,Fitness Band,111,1
+WHOOP,4.0,Fitness Band,112,1
+WHOOP,4.0,Fitness Band,112,1
+WHOOP,4.0,Fitness Band,114,1
+WHOOP,4.0,Fitness Band,115,1
+WHOOP,4.0,Fitness Band,116,1
+WHOOP,4.0,Fitness Band,116,1
+WHOOP,4.0,Fitness Band,118,1
+WHOOP,4.0,Fitness Band,119,1
+WHOOP,4.0,Fitness Band,120,1
+WHOOP,4.0,Fitness Band,121,1
+WHOOP,4.0,Fitness Band,121,1
+WHOOP,4.0,Fitness Band,123,1
+WHOOP,4.0,Fitness Band,124,1
+WHOOP,4.0,Fitness Band,125,1
+WHOOP,4.0,Fitness Band,126,1
+WHOOP,4.0,Fitness Band,127,1
+WHOOP,4.0,Fitness Band,128,1
+WHOOP,4.0,Fitness Band,129,1
+WHOOP,4.0,Fitness Band,130,1
+WHOOP,4.0,Fitness Band,130,1
+WHOOP,4.0,Fitness Band,132,1
+WHOOP,4.0,Fitness Band,133,1
+WHOOP,4.0,Fitness Band,133,1
+WHOOP,4.0,Fitness Band,135,1
+WHOOP,4.0,Fitness Band,136,1
+WHOOP,4.0,Fitness Band,137,1
+WHOOP,4.0,Fitness Band,138,1
+WHOOP,4.0,Fitness Band,139,1
+WHOOP,4.0,Fitness Band,140,1
+WHOOP,4.0,Fitness Band,141,1
+WHOOP,4.0,Fitness Band,142,1
+WHOOP,4.0,Fitness Band,143,1
+WHOOP,4.0,Fitness Band,144,1
+WHOOP,4.0,Fitness Band,145,1
+WHOOP,4.0,Fitness Band,146,1
+WHOOP,4.0,Fitness Band,147,1
+WHOOP,4.0,Fitness Band,148,1
+WHOOP,4.0,Fitness Band,149,1
+WHOOP,4.0,Fitness Band,150,1
+WHOOP,4.0,Fitness Band,151,1
+WHOOP,4.0,Fitness Band,152,1
+WHOOP,4.0,Fitness Band,153,1
+WHOOP,4.0,Fitness Band,154,1
+WHOOP,4.0,Fitness Band,154,1
+WHOOP,4.0,Fitness Band,156,1
+WHOOP,4.0,Fitness Band,156,1
+WHOOP,4.0,Fitness Band,158,1
+WHOOP,4.0,Fitness Band,159,1
+WHOOP,4.0,Fitness Band,160,1
+WHOOP,4.0,Fitness Band,161,1
+WHOOP,4.0,Fitness Band,162,1
+WHOOP,4.0,Fitness Band,163,1
+WHOOP,4.0,Fitness Band,164,1
+WHOOP,4.0,Fitness Band,165,1
+WHOOP,4.0,Fitness Band,166,1
+WHOOP,4.0,Fitness Band,166,1
+WHOOP,4.0,Fitness Band,168,1
+WHOOP,4.0,Fitness Band,169,1
+WHOOP,4.0,Fitness Band,170,1
+WHOOP,4.0,Fitness Band,171,1
+WHOOP,4.0,Fitness Band,171,1
+WHOOP,4.0,Fitness Band,173,1
+WHOOP,4.0,Fitness Band,173,1
+WHOOP,4.0,Fitness Band,175,1
+WHOOP,4.0,Fitness Band,175,1
+WHOOP,4.0,Fitness Band,177,1
+WHOOP,4.0,Fitness Band,178,1
+WHOOP,4.0,Fitness Band,178,1
+WHOOP,4.0,Fitness Band,180,1
+WHOOP,4.0,Fitness Band,181,1
+WHOOP,4.0,Fitness Band,182,1
+WHOOP,4.0,Fitness Band,183,1
+WHOOP,4.0,Fitness Band,184,1
+WHOOP,4.0,Fitness Band,184,1
+WHOOP,4.0,Fitness Band,186,1
+WHOOP,4.0,Fitness Band,187,1
+WHOOP,4.0,Fitness Band,187,1
+WHOOP,4.0,Fitness Band,189,1
+WHOOP,4.0,Fitness Band,190,1
+WHOOP,4.0,Fitness Band,191,1
+WHOOP,4.0,Fitness Band,192,1
+WHOOP,4.0,Fitness Band,193,1
+WHOOP,4.0,Fitness Band,194,1
+WHOOP,4.0,Fitness Band,195,1
+WHOOP,4.0,Fitness Band,195,1
+WHOOP,4.0,Fitness Band,197,1
+WHOOP,4.0,Fitness Band,198,1
+WHOOP,4.0,Fitness Band,198,1
+WHOOP,4.0,Fitness Band,200,1
+WHOOP,4.0,Fitness Band,201,1
+WHOOP,4.0,Fitness Band,201,1
+WHOOP,4.0,Fitness Band,203,1
+WHOOP,4.0,Fitness Band,204,1
+WHOOP,4.0,Fitness Band,205,1
+WHOOP,4.0,Fitness Band,206,1
+WHOOP,4.0,Fitness Band,207,1
+WHOOP,4.0,Fitness Band,207,1
+WHOOP,4.0,Fitness Band,209,1
+WHOOP,4.0,Fitness Band,210,1
+WHOOP,4.0,Fitness Band,211,1
+WHOOP,4.0,Fitness Band,212,1
+WHOOP,4.0,Fitness Band,213,1
+WHOOP,4.0,Fitness Band,214,1
+WHOOP,4.0,Fitness Band,215,1
+WHOOP,4.0,Fitness Band,215,1
+WHOOP,4.0,Fitness Band,217,1
+WHOOP,4.0,Fitness Band,218,1
+WHOOP,4.0,Fitness Band,218,1
+WHOOP,4.0,Fitness Band,220,1
+WHOOP,4.0,Fitness Band,221,1
+WHOOP,4.0,Fitness Band,222,1
+WHOOP,4.0,Fitness Band,222,1
+WHOOP,4.0,Fitness Band,224,1
+WHOOP,4.0,Fitness Band,225,1
+WHOOP,4.0,Fitness Band,226,1
+WHOOP,4.0,Fitness Band,227,1
+WHOOP,4.0,Fitness Band,228,1
+WHOOP,4.0,Fitness Band,229,1
+WHOOP,4.0,Fitness Band,230,1
+WHOOP,4.0,Fitness Band,231,1
+Amazfit,Band 7,Fitness Tracker,67,1
+Amazfit,Band 7,Fitness Tracker,56,2
+Amazfit,Band 7,Fitness Tracker,141,3
+Amazfit,Band 7,Fitness Tracker,157,4
+Fitbit,Charge 6,Fitness Tracker,66,5
+Amazfit,Band 7,Fitness Tracker,159,6
+Fitbit,Charge 6,Fitness Tracker,125,7
+Fitbit,Charge 6,Fitness Tracker,101,8
+Fitbit,Inspire 4,Fitness Tracker,112,9
+Amazfit,Band 7,Fitness Tracker,46,10
+Fitbit,Inspire 4,Fitness Tracker,145,11
+Fitbit,Inspire 4,Fitness Tracker,158,12
+Amazfit,Band 7,Fitness Tracker,90,13
+Fitbit,Charge 6,Fitness Tracker,13,14
+Amazfit,Band 7,Fitness Tracker,99,15
+Fitbit,Inspire 4,Fitness Tracker,5,16
+Amazfit,Band 7,Fitness Tracker,9,17
+Fitbit,Inspire 4,Fitness Tracker,10,18
+Fitbit,Charge 6,Fitness Tracker,57,19
+Fitbit,Inspire 4,Fitness Tracker,24,19
+Amazfit,Band 7,Fitness Tracker,1,21
+Amazfit,Band 7,Fitness Tracker,34,22
+Amazfit,Band 7,Fitness Tracker,42,23
+Fitbit,Charge 6,Fitness Tracker,138,24
+Amazfit,Band 7,Fitness Tracker,10,25
+Fitbit,Inspire 4,Fitness Tracker,123,26
+Fitbit,Charge 6,Fitness Tracker,114,27
+Fitbit,Charge 6,Fitness Tracker,37,28
+Fitbit,Inspire 4,Fitness Tracker,88,29
+Fitbit,Charge 6,Fitness Tracker,107,30
+Amazfit,Band 7,Fitness Tracker,143,31
+Fitbit,Charge 6,Fitness Tracker,7,32
+Amazfit,Band 7,Fitness Tracker,76,33
+Fitbit,Charge 6,Fitness Tracker,25,34
+Fitbit,Inspire 4,Fitness Tracker,2,35
+Fitbit,Charge 6,Fitness Tracker,147,36
+Amazfit,Band 7,Fitness Tracker,75,37
+Fitbit,Inspire 4,Fitness Tracker,103,38
+Fitbit,Inspire 4,Fitness Tracker,36,39
+Fitbit,Charge 6,Fitness Tracker,88,40
+Fitbit,Charge 6,Fitness Tracker,22,41
+Fitbit,Inspire 4,Fitness Tracker,124,42
+Fitbit,Charge 6,Fitness Tracker,110,43
+Fitbit,Charge 6,Fitness Tracker,120,44
+Fitbit,Charge 6,Fitness Tracker,30,45
+Amazfit,Band 7,Fitness Tracker,28,46
+Amazfit,Band 7,Fitness Tracker,127,47
+Fitbit,Inspire 4,Fitness Tracker,29,48
+Amazfit,Band 7,Fitness Tracker,144,49
+Fitbit,Charge 6,Fitness Tracker,139,50
+Amazfit,Band 7,Fitness Tracker,119,51
+Fitbit,Charge 6,Fitness Tracker,135,52
+Amazfit,Band 7,Fitness Tracker,113,53
+Fitbit,Inspire 4,Fitness Tracker,50,54
+Fitbit,Inspire 4,Fitness Tracker,67,55
+Fitbit,Inspire 4,Fitness Tracker,85,56
+Amazfit,Band 7,Fitness Tracker,48,57
+Amazfit,Band 7,Fitness Tracker,26,58
+Amazfit,Band 7,Fitness Tracker,90,59
+Fitbit,Charge 6,Fitness Tracker,60,60
+Fitbit,Charge 6,Fitness Tracker,79,61
+Fitbit,Charge 6,Fitness Tracker,41,62
+Amazfit,Band 7,Fitness Tracker,97,63
+Fitbit,Charge 6,Fitness Tracker,80,64
+Fitbit,Charge 6,Fitness Tracker,3,65
+Fitbit,Charge 6,Fitness Tracker,27,66
+Fitbit,Inspire 4,Fitness Tracker,38,67
+Amazfit,Band 7,Fitness Tracker,4,68
+Fitbit,Charge 6,Fitness Tracker,108,69
+Fitbit,Charge 6,Fitness Tracker,18,70
+Fitbit,Inspire 4,Fitness Tracker,146,71
+Fitbit,Charge 6,Fitness Tracker,39,72
+Fitbit,Charge 6,Fitness Tracker,92,73
+Fitbit,Charge 6,Fitness Tracker,137,74
+Fitbit,Charge 6,Fitness Tracker,77,75
+Fitbit,Charge 6,Fitness Tracker,63,76
+Amazfit,Band 7,Fitness Tracker,128,77
+Amazfit,Band 7,Fitness Tracker,151,78
+Amazfit,Band 7,Fitness Tracker,136,79
+Amazfit,Band 7,Fitness Tracker,72,80
+Amazfit,Band 7,Fitness Tracker,40,81
+Amazfit,Band 7,Fitness Tracker,96,82
+Fitbit,Inspire 4,Fitness Tracker,149,83
+Fitbit,Charge 6,Fitness Tracker,104,84
+Fitbit,Inspire 4,Fitness Tracker,45,85
+Fitbit,Inspire 4,Fitness Tracker,118,86
+Fitbit,Inspire 4,Fitness Tracker,82,87
+Fitbit,Inspire 4,Fitness Tracker,15,88
+Fitbit,Charge 6,Fitness Tracker,81,89
+Fitbit,Inspire 4,Fitness Tracker,8,90
+Fitbit,Inspire 4,Fitness Tracker,60,91
+Amazfit,Band 7,Fitness Tracker,132,92
+Fitbit,Charge 6,Fitness Tracker,54,93
+Fitbit,Inspire 4,Fitness Tracker,87,94
+Fitbit,Inspire 4,Fitness Tracker,156,95
+Amazfit,Band 7,Fitness Tracker,33,96
+Amazfit,Band 7,Fitness Tracker,115,97
+Amazfit,Band 7,Fitness Tracker,59,98
+Amazfit,Band 7,Fitness Tracker,129,99
+Fitbit,Charge 6,Fitness Tracker,53,100
+Fitbit,Charge 6,Fitness Tracker,42,101
+Fitbit,Charge 6,Fitness Tracker,109,102
+Fitbit,Charge 6,Fitness Tracker,69,103
+Amazfit,Band 7,Fitness Tracker,21,104
+Amazfit,Band 7,Fitness Tracker,32,105
+Fitbit,Charge 6,Fitness Tracker,164,106
+Amazfit,Band 7,Fitness Tracker,70,107
+Amazfit,Band 7,Fitness Tracker,52,108
+Amazfit,Band 7,Fitness Tracker,13,109
+Fitbit,Inspire 4,Fitness Tracker,16,110
+Fitbit,Inspire 4,Fitness Tracker,83,111
+Fitbit,Inspire 4,Fitness Tracker,95,112
+Fitbit,Charge 6,Fitness Tracker,166,113
+Fitbit,Inspire 4,Fitness Tracker,134,114
+Amazfit,Band 7,Fitness Tracker,131,115
+Fitbit,Charge 6,Fitness Tracker,161,116
+Fitbit,Inspire 4,Fitness Tracker,51,117
+Amazfit,Band 7,Fitness Tracker,130,118
+Fitbit,Charge 6,Fitness Tracker,126,119
+Amazfit,Band 7,Fitness Tracker,71,120
+Fitbit,Inspire 4,Fitness Tracker,168,121
+Fitbit,Charge 6,Fitness Tracker,35,122
+Amazfit,Band 7,Fitness Tracker,151,123
+Fitbit,Charge 6,Fitness Tracker,58,124
+Fitbit,Inspire 4,Fitness Tracker,20,125
+Amazfit,Band 7,Fitness Tracker,163,126
+Fitbit,Charge 6,Fitness Tracker,142,127
+Fitbit,Charge 6,Fitness Tracker,132,128
+Fitbit,Inspire 4,Fitness Tracker,100,129
+Amazfit,Band 7,Fitness Tracker,17,130
+Fitbit,Inspire 4,Fitness Tracker,62,131
+Fitbit,Charge 6,Fitness Tracker,72,132
+Fitbit,Inspire 4,Fitness Tracker,64,133
+Amazfit,Band 7,Fitness Tracker,98,134
+Fitbit,Charge 6,Fitness Tracker,116,135
+Amazfit,Band 7,Fitness Tracker,47,136
+Fitbit,Charge 6,Fitness Tracker,93,137
+Fitbit,Charge 6,Fitness Tracker,167,138
+Fitbit,Inspire 4,Fitness Tracker,161,139
+Fitbit,Inspire 4,Fitness Tracker,140,140
+Amazfit,Band 7,Fitness Tracker,169,141
+Fitbit,Inspire 4,Fitness Tracker,105,142
+Fitbit,Inspire 4,Fitness Tracker,74,143
+Fitbit,Charge 6,Fitness Tracker,149,144
+Fitbit,Charge 6,Fitness Tracker,160,145
+Fitbit,Inspire 4,Fitness Tracker,151,146
+Fitbit,Inspire 4,Fitness Tracker,164,147
+Amazfit,Band 7,Fitness Tracker,55,148
+Fitbit,Inspire 4,Fitness Tracker,23,149
+Fitbit,Inspire 4,Fitness Tracker,19,150
+Fitbit,Inspire 4,Fitness Tracker,78,151
+Amazfit,Band 7,Fitness Tracker,117,152
+Fitbit,Charge 6,Fitness Tracker,12,153
+Amazfit,Band 7,Fitness Tracker,154,154
+Fitbit,Inspire 4,Fitness Tracker,6,155
+Fitbit,Inspire 4,Fitness Tracker,102,156
+Fitbit,Charge 6,Fitness Tracker,111,157
+Fitbit,Inspire 4,Fitness Tracker,121,158
+Fitbit,Inspire 4,Fitness Tracker,84,159
+Fitbit,Inspire 4,Fitness Tracker,170,160
+Fitbit,Charge 6,Fitness Tracker,122,161
+Fitbit,Inspire 4,Fitness Tracker,49,162
+Fitbit,Inspire 4,Fitness Tracker,64,163
+Fitbit,Charge 6,Fitness Tracker,31,164
+Fitbit,Charge 6,Fitness Tracker,93,165
+Fitbit,Inspire 4,Fitness Tracker,148,166
+Fitbit,Inspire 4,Fitness Tracker,86,167
+Fitbit,Charge 6,Fitness Tracker,44,168
+Fitbit,Inspire 4,Fitness Tracker,105,169
+Fitbit,Charge 6,Fitness Tracker,155,170
+Oura,Ring Gen 4,Smart Ring,229,1
+Oura,Ring Gen 4,Smart Ring,73,2
+Oura,Ring Gen 4,Smart Ring,203,3
+Oura,Ring Gen 4,Smart Ring,161,4
+Oura,Ring Gen 4,Smart Ring,82,5
+Oura,Ring Gen 4,Smart Ring,50,6
+Oura,Ring Gen 4,Smart Ring,12,7
+Oura,Ring Gen 4,Smart Ring,220,8
+Oura,Ring Gen 4,Smart Ring,142,9
+Oura,Ring Gen 4,Smart Ring,200,10
+Oura,Ring Gen 4,Smart Ring,146,11
+Oura,Ring Gen 4,Smart Ring,38,12
+Oura,Ring Gen 4,Smart Ring,14,13
+Oura,Ring Gen 4,Smart Ring,13,14
+Oura,Ring Gen 4,Smart Ring,108,15
+Oura,Ring Gen 4,Smart Ring,157,16
+Oura,Ring Gen 4,Smart Ring,59,17
+Oura,Ring Gen 4,Smart Ring,131,18
+Oura,Ring Gen 4,Smart Ring,30,19
+Oura,Ring Gen 4,Smart Ring,132,20
+Oura,Ring Gen 4,Smart Ring,149,21
+Oura,Ring Gen 4,Smart Ring,194,22
+Oura,Ring Gen 4,Smart Ring,181,23
+Oura,Ring Gen 4,Smart Ring,201,24
+Oura,Ring Gen 4,Smart Ring,26,25
+Oura,Ring Gen 4,Smart Ring,128,26
+Oura,Ring Gen 4,Smart Ring,57,27
+Oura,Ring Gen 4,Smart Ring,158,28
+Oura,Ring Gen 4,Smart Ring,123,29
+Oura,Ring Gen 4,Smart Ring,226,30
+Oura,Ring Gen 4,Smart Ring,139,31
+Oura,Ring Gen 4,Smart Ring,116,32
+Oura,Ring Gen 4,Smart Ring,86,33
+Oura,Ring Gen 4,Smart Ring,33,34
+Oura,Ring Gen 4,Smart Ring,207,35
+Oura,Ring Gen 4,Smart Ring,80,36
+Oura,Ring Gen 4,Smart Ring,117,37
+Oura,Ring Gen 4,Smart Ring,117,38
+Oura,Ring Gen 4,Smart Ring,125,39
+Oura,Ring Gen 4,Smart Ring,147,40
+Oura,Ring Gen 4,Smart Ring,193,41
+Oura,Ring Gen 4,Smart Ring,21,42
+Oura,Ring Gen 4,Smart Ring,155,43
+Oura,Ring Gen 4,Smart Ring,127,44
+Oura,Ring Gen 4,Smart Ring,110,45
+Oura,Ring Gen 4,Smart Ring,105,46
+Oura,Ring Gen 4,Smart Ring,97,47
+Oura,Ring Gen 4,Smart Ring,29,48
+Oura,Ring Gen 4,Smart Ring,209,49
+Oura,Ring Gen 4,Smart Ring,145,50
+Oura,Ring Gen 4,Smart Ring,170,51
+Oura,Ring Gen 4,Smart Ring,182,52
+Oura,Ring Gen 4,Smart Ring,45,53
+Oura,Ring Gen 4,Smart Ring,14,54
+Oura,Ring Gen 4,Smart Ring,60,55
+Oura,Ring Gen 4,Smart Ring,227,56
+Oura,Ring Gen 4,Smart Ring,160,57
+Oura,Ring Gen 4,Smart Ring,58,58
+Oura,Ring Gen 4,Smart Ring,25,59
+Oura,Ring Gen 4,Smart Ring,224,60
+Oura,Ring Gen 4,Smart Ring,101,61
+Oura,Ring Gen 4,Smart Ring,99,62
+Oura,Ring Gen 4,Smart Ring,37,63
+Oura,Ring Gen 4,Smart Ring,215,64
+Oura,Ring Gen 4,Smart Ring,140,65
+Oura,Ring Gen 4,Smart Ring,148,66
+Oura,Ring Gen 4,Smart Ring,152,67
+Oura,Ring Gen 4,Smart Ring,17,68
+Oura,Ring Gen 4,Smart Ring,213,69
+Oura,Ring Gen 4,Smart Ring,39,70
+Oura,Ring Gen 4,Smart Ring,6,71
+Oura,Ring Gen 4,Smart Ring,53,72
+Oura,Ring Gen 4,Smart Ring,214,73
+Oura,Ring Gen 4,Smart Ring,216,74
+Oura,Ring Gen 4,Smart Ring,198,75
+Oura,Ring Gen 4,Smart Ring,156,76
+Oura,Ring Gen 4,Smart Ring,94,77
+Oura,Ring Gen 4,Smart Ring,40,78
+Oura,Ring Gen 4,Smart Ring,218,79
+Oura,Ring Gen 4,Smart Ring,121,80
+Oura,Ring Gen 4,Smart Ring,46,81
+Oura,Ring Gen 4,Smart Ring,75,82
+Oura,Ring Gen 4,Smart Ring,114,83
+Oura,Ring Gen 4,Smart Ring,92,84
+Oura,Ring Gen 4,Smart Ring,228,85
+Oura,Ring Gen 4,Smart Ring,168,86
+Oura,Ring Gen 4,Smart Ring,98,87
+Oura,Ring Gen 4,Smart Ring,90,88
+Oura,Ring Gen 4,Smart Ring,138,89
+Oura,Ring Gen 4,Smart Ring,20,90
+Oura,Ring Gen 4,Smart Ring,113,91
+Oura,Ring Gen 4,Smart Ring,143,92
+Oura,Ring Gen 4,Smart Ring,140,93
+Oura,Ring Gen 4,Smart Ring,62,94
+Oura,Ring Gen 4,Smart Ring,71,95
+Oura,Ring Gen 4,Smart Ring,78,96
+Oura,Ring Gen 4,Smart Ring,8,97
+Oura,Ring Gen 4,Smart Ring,196,98
+Oura,Ring Gen 4,Smart Ring,174,99
+Oura,Ring Gen 4,Smart Ring,183,100
+Oura,Ring Gen 4,Smart Ring,86,101
+Oura,Ring Gen 4,Smart Ring,74,102
+Oura,Ring Gen 4,Smart Ring,171,103
+Oura,Ring Gen 4,Smart Ring,32,104
+Oura,Ring Gen 4,Smart Ring,72,105
+Oura,Ring Gen 4,Smart Ring,222,106
+Oura,Ring Gen 4,Smart Ring,230,107
+Oura,Ring Gen 4,Smart Ring,152,108
+Oura,Ring Gen 4,Smart Ring,24,109
+Oura,Ring Gen 4,Smart Ring,129,110
+Oura,Ring Gen 4,Smart Ring,212,111
+Oura,Ring Gen 4,Smart Ring,205,112
+Oura,Ring Gen 4,Smart Ring,95,113
+Oura,Ring Gen 4,Smart Ring,84,114
+Oura,Ring Gen 4,Smart Ring,223,115
+Oura,Ring Gen 4,Smart Ring,77,116
+Oura,Ring Gen 4,Smart Ring,197,117
+Oura,Ring Gen 4,Smart Ring,135,118
+Oura,Ring Gen 4,Smart Ring,28,119
+Oura,Ring Gen 4,Smart Ring,167,120
+Oura,Ring Gen 4,Smart Ring,100,121
+Oura,Ring Gen 4,Smart Ring,149,122
+Oura,Ring Gen 4,Smart Ring,43,123
+Oura,Ring Gen 4,Smart Ring,137,124
+Oura,Ring Gen 4,Smart Ring,164,125
+Oura,Ring Gen 4,Smart Ring,119,126
+Oura,Ring Gen 4,Smart Ring,35,127
+Oura,Ring Gen 4,Smart Ring,80,128
+Oura,Ring Gen 4,Smart Ring,66,129
+Oura,Ring Gen 4,Smart Ring,85,130
+Oura,Ring Gen 4,Smart Ring,191,131
+Oura,Ring Gen 4,Smart Ring,9,132
+Oura,Ring Gen 4,Smart Ring,154,133
+Oura,Ring Gen 4,Smart Ring,164,134
+Oura,Ring Gen 4,Smart Ring,221,135
+Oura,Ring Gen 4,Smart Ring,36,136
+Oura,Ring Gen 4,Smart Ring,163,137
+Oura,Ring Gen 4,Smart Ring,22,138
+Oura,Ring Gen 4,Smart Ring,6,139
+Oura,Ring Gen 4,Smart Ring,162,140
+Oura,Ring Gen 4,Smart Ring,55,141
+Oura,Ring Gen 4,Smart Ring,158,142
+Oura,Ring Gen 4,Smart Ring,89,143
+Oura,Ring Gen 4,Smart Ring,2,144
+Oura,Ring Gen 4,Smart Ring,5,145
+Oura,Ring Gen 4,Smart Ring,82,146
+Oura,Ring Gen 4,Smart Ring,208,147
+Oura,Ring Gen 4,Smart Ring,19,148
+Oura,Ring Gen 4,Smart Ring,211,149
+Oura,Ring Gen 4,Smart Ring,177,150
+Oura,Ring Gen 4,Smart Ring,179,151
+Oura,Ring Gen 4,Smart Ring,185,152
+Oura,Ring Gen 4,Smart Ring,56,153
+Oura,Ring Gen 4,Smart Ring,64,154
+Oura,Ring Gen 4,Smart Ring,191,155
+Oura,Ring Gen 4,Smart Ring,124,156
+Oura,Ring Gen 4,Smart Ring,115,157
+Oura,Ring Gen 4,Smart Ring,4,158
+Oura,Ring Gen 4,Smart Ring,133,159
+Oura,Ring Gen 4,Smart Ring,231,160
+Oura,Ring Gen 4,Smart Ring,16,161
+Oura,Ring Gen 4,Smart Ring,79,162
+Oura,Ring Gen 4,Smart Ring,190,163
+Oura,Ring Gen 4,Smart Ring,3,164
+Oura,Ring Gen 4,Smart Ring,101,165
+Oura,Ring Gen 4,Smart Ring,143,166
+Oura,Ring Gen 4,Smart Ring,61,167
+Oura,Ring Gen 4,Smart Ring,68,168
+Oura,Ring Gen 4,Smart Ring,133,169
+Oura,Ring Gen 4,Smart Ring,93,170
+Oura,Ring Gen 4,Smart Ring,202,171
+Oura,Ring Gen 4,Smart Ring,112,172
+Oura,Ring Gen 4,Smart Ring,184,173
+Oura,Ring Gen 4,Smart Ring,42,174
+Oura,Ring Gen 4,Smart Ring,173,175
+Oura,Ring Gen 4,Smart Ring,34,176
+Oura,Ring Gen 4,Smart Ring,120,177
+Oura,Ring Gen 4,Smart Ring,209,178
+Oura,Ring Gen 4,Smart Ring,43,179
+Oura,Ring Gen 4,Smart Ring,46,180
+Oura,Ring Gen 4,Smart Ring,130,181
+Oura,Ring Gen 4,Smart Ring,70,182
+Oura,Ring Gen 4,Smart Ring,176,183
+Oura,Ring Gen 4,Smart Ring,69,184
+Oura,Ring Gen 4,Smart Ring,62,185
+Oura,Ring Gen 4,Smart Ring,187,186
+Oura,Ring Gen 4,Smart Ring,1,187
+Oura,Ring Gen 4,Smart Ring,76,188
+Oura,Ring Gen 4,Smart Ring,96,189
+Oura,Ring Gen 4,Smart Ring,54,190
+Oura,Ring Gen 4,Smart Ring,219,191
+Oura,Ring Gen 4,Smart Ring,9,192
+Oura,Ring Gen 4,Smart Ring,189,193
+Oura,Ring Gen 4,Smart Ring,108,194
+Oura,Ring Gen 4,Smart Ring,46,195
+Oura,Ring Gen 4,Smart Ring,122,196
+Oura,Ring Gen 4,Smart Ring,51,197
+Oura,Ring Gen 4,Smart Ring,169,198
+Oura,Ring Gen 4,Smart Ring,41,199
+Oura,Ring Gen 4,Smart Ring,175,200
+Oura,Ring Gen 4,Smart Ring,149,201
+Oura,Ring Gen 4,Smart Ring,31,202
+Oura,Ring Gen 4,Smart Ring,49,203
+Oura,Ring Gen 4,Smart Ring,216,204
+Oura,Ring Gen 4,Smart Ring,188,205
+Oura,Ring Gen 4,Smart Ring,91,206
+Oura,Ring Gen 4,Smart Ring,27,207
+Oura,Ring Gen 4,Smart Ring,136,208
+Oura,Ring Gen 4,Smart Ring,22,209
+Oura,Ring Gen 4,Smart Ring,199,210
+Oura,Ring Gen 4,Smart Ring,86,211
+Oura,Ring Gen 4,Smart Ring,171,212
+Oura,Ring Gen 4,Smart Ring,67,213
+Oura,Ring Gen 4,Smart Ring,194,214
+Oura,Ring Gen 4,Smart Ring,51,215
+Oura,Ring Gen 4,Smart Ring,186,216
+Oura,Ring Gen 4,Smart Ring,164,217
+Oura,Ring Gen 4,Smart Ring,104,218
+Oura,Ring Gen 4,Smart Ring,106,219
+Oura,Ring Gen 4,Smart Ring,206,220
+Oura,Ring Gen 4,Smart Ring,204,221
+Oura,Ring Gen 4,Smart Ring,18,222
+Oura,Ring Gen 4,Smart Ring,111,223
+Oura,Ring Gen 4,Smart Ring,64,224
+Oura,Ring Gen 4,Smart Ring,224,225
+Oura,Ring Gen 4,Smart Ring,179,226
+Oura,Ring Gen 4,Smart Ring,107,227
+Oura,Ring Gen 4,Smart Ring,178,228
+Oura,Ring Gen 4,Smart Ring,126,229
+Oura,Ring Gen 4,Smart Ring,103,230
+Oura,Ring Gen 4,Smart Ring,9,231
+Amazfit,GTR 4,Smartwatch,429,1
+Amazfit,T-Rex 3,Smartwatch,194,2
+Amazfit,T-Rex 3,Smartwatch,887,3
+Amazfit,T-Rex 3,Smartwatch,1125,4
+Amazfit,GTR 4,Smartwatch,503,5
+Amazfit,GTS 4,Smartwatch,561,6
+Amazfit,T-Rex 3,Smartwatch,694,7
+Amazfit,GTS 4,Smartwatch,763,8
+Amazfit,GTS 4,Smartwatch,496,9
+Amazfit,GTS 4,Smartwatch,32,10
+Fitbit,Versa 4,Smartwatch,388,11
+Amazfit,GTR 4,Smartwatch,550,12
+Amazfit,GTR 4,Smartwatch,1089,13
+Amazfit,GTR 4,Smartwatch,520,14
+Amazfit,GTS 4,Smartwatch,111,15
+Fitbit,Versa 4,Smartwatch,371,16
+Amazfit,T-Rex 3,Smartwatch,1217,17
+Fitbit,Versa 4,Smartwatch,695,18
+Fitbit,Versa 4,Smartwatch,226,19
+Fitbit,Sense 2,Smartwatch,901,20
+Fitbit,Sense 2,Smartwatch,978,21
+Amazfit,T-Rex 3,Smartwatch,623,22
+Fitbit,Versa 4,Smartwatch,669,23
+Amazfit,GTS 4,Smartwatch,667,24
+Amazfit,GTR 4,Smartwatch,234,25
+Fitbit,Sense 2,Smartwatch,1195,26
+Amazfit,GTR 4,Smartwatch,1137,27
+Amazfit,T-Rex 3,Smartwatch,548,28
+Amazfit,GTR 4,Smartwatch,308,29
+Amazfit,GTS 4,Smartwatch,85,30
+Amazfit,GTS 4,Smartwatch,267,31
+Fitbit,Versa 4,Smartwatch,983,32
+Fitbit,Versa 4,Smartwatch,247,33
+Amazfit,T-Rex 3,Smartwatch,587,34
+Fitbit,Versa 4,Smartwatch,657,35
+Amazfit,GTR 4,Smartwatch,257,36
+Fitbit,Sense 2,Smartwatch,235,37
+Huawei,Watch 5,Smartwatch,732,38
+Amazfit,GTR 4,Smartwatch,672,39
+Amazfit,GTR 4,Smartwatch,1054,40
+Huawei,Watch 5,Smartwatch,872,41
+Huawei,Band 9,Smartwatch,556,42
+Fitbit,Sense 2,Smartwatch,1124,43
+Huawei,Watch GT 5,Smartwatch,732,44
+Huawei,Band 9,Smartwatch,311,45
+Amazfit,GTS 4,Smartwatch,1012,46
+Huawei,Watch 5,Smartwatch,515,47
+Fitbit,Sense 2,Smartwatch,270,48
+Huawei,Band 9,Smartwatch,35,49
+Fitbit,Sense 2,Smartwatch,712,50
+Fitbit,Sense 2,Smartwatch,893,51
+Amazfit,GTS 4,Smartwatch,206,52
+Fitbit,Versa 4,Smartwatch,619,53
+Huawei,Watch GT 5,Smartwatch,327,54
+Amazfit,GTS 4,Smartwatch,1217,55
+Fitbit,Sense 2,Smartwatch,800,56
+Huawei,Watch 5,Smartwatch,243,57
+Fitbit,Sense 2,Smartwatch,807,58
+Fitbit,Sense 2,Smartwatch,944,59
+Fitbit,Versa 4,Smartwatch,388,60
+Amazfit,T-Rex 3,Smartwatch,215,61
+Huawei,Watch Ultimate,Smartwatch,748,62
+Amazfit,GTS 4,Smartwatch,830,63
+Amazfit,GTS 4,Smartwatch,500,64
+Fitbit,Versa 4,Smartwatch,262,65
+Huawei,Band 9,Smartwatch,270,66
+Fitbit,Sense 2,Smartwatch,837,67
+Huawei,Band 9,Smartwatch,142,68
+Amazfit,T-Rex 3,Smartwatch,393,69
+Amazfit,GTS 4,Smartwatch,177,70
+Amazfit,GTS 4,Smartwatch,1089,71
+Fitbit,Versa 4,Smartwatch,1054,72
+Huawei,Watch GT 5,Smartwatch,142,73
+Garmin,Forerunner 965,Smartwatch,953,74
+Fitbit,Sense 2,Smartwatch,782,75
+Huawei,Watch 5,Smartwatch,798,76
+Huawei,Watch Ultimate,Smartwatch,204,77
+Huawei,Band 9,Smartwatch,164,78
+Huawei,Watch 5,Smartwatch,500,79
+Huawei,Watch Ultimate,Smartwatch,800,80
+Huawei,Band 9,Smartwatch,792,81
+Huawei,Band 9,Smartwatch,14,82
+Amazfit,GTS 4,Smartwatch,905,83
+Fitbit,Sense 2,Smartwatch,311,84
+Huawei,Watch Ultimate,Smartwatch,951,85
+Fitbit,Sense 2,Smartwatch,1201,86
+Amazfit,T-Rex 3,Smartwatch,3,87
+Fitbit,Versa 4,Smartwatch,1010,88
+Amazfit,GTS 4,Smartwatch,358,89
+Huawei,Band 9,Smartwatch,172,90
+Huawei,Watch GT 5,Smartwatch,1199,91
+Amazfit,T-Rex 3,Smartwatch,61,92
+Garmin,Fenix 8,Smartwatch,94,93
+Garmin,Forerunner 965,Smartwatch,948,94
+Garmin,Instinct 2X,Smartwatch,646,95
+Amazfit,T-Rex 3,Smartwatch,1083,96
+Huawei,Band 9,Smartwatch,981,97
+Huawei,Watch GT 5,Smartwatch,374,98
+Fitbit,Sense 2,Smartwatch,378,99
+Amazfit,T-Rex 3,Smartwatch,383,100
+Garmin,Instinct 2X,Smartwatch,655,101
+Fitbit,Versa 4,Smartwatch,830,102
+Huawei,Watch GT 5,Smartwatch,1017,103
+Garmin,Instinct 2X,Smartwatch,997,104
+Garmin,Instinct 2X,Smartwatch,119,105
+Fitbit,Versa 4,Smartwatch,37,106
+Garmin,Fenix 8,Smartwatch,553,107
+Fitbit,Sense 2,Smartwatch,253,108
+Huawei,Watch Ultimate,Smartwatch,64,109
+Garmin,Venu 3,Smartwatch,999,110
+Fitbit,Sense 2,Smartwatch,1215,111
+Amazfit,GTS 4,Smartwatch,856,112
+Huawei,Watch GT 5,Smartwatch,706,113
+Amazfit,GTS 4,Smartwatch,403,114
+Amazfit,T-Rex 3,Smartwatch,35,115
+Huawei,Band 9,Smartwatch,128,116
+Amazfit,GTR 4,Smartwatch,99,117
+Fitbit,Versa 4,Smartwatch,1099,118
+Fitbit,Sense 2,Smartwatch,1188,119
+Huawei,Watch GT 5,Smartwatch,69,120
+Amazfit,GTS 4,Smartwatch,463,121
+Huawei,Watch GT 5,Smartwatch,981,122
+Huawei,Band 9,Smartwatch,28,123
+Polar,Pacer Pro,Smartwatch,333,124
+Polar,Vantage V3,Smartwatch,1072,125
+Samsung,Galaxy Watch FE,Smartwatch,1106,126
+Amazfit,T-Rex 3,Smartwatch,663,127
+Polar,Pacer Pro,Smartwatch,953,128
+Apple,Watch Ultra 2,Smartwatch,768,129
+Apple,Watch SE 3,Smartwatch,697,130
+Samsung,Galaxy Watch 7,Smartwatch,584,131
+Apple,Watch SE 3,Smartwatch,960,132
+Polar,Vantage V3,Smartwatch,716,133
+Samsung,Galaxy Watch FE,Smartwatch,756,134
+Polar,Vantage V3,Smartwatch,1097,135
+Amazfit,T-Rex 3,Smartwatch,14,136
+Huawei,Band 9,Smartwatch,802,137
+Samsung,Galaxy Watch FE,Smartwatch,294,138
+Amazfit,GTS 4,Smartwatch,957,139
+Samsung,Galaxy Watch FE,Smartwatch,506,140
+Samsung,Galaxy Watch 7,Smartwatch,510,141
+Amazfit,T-Rex 3,Smartwatch,1160,142
+Polar,Pacer Pro,Smartwatch,1137,143
+Polar,Pacer Pro,Smartwatch,218,144
+Withings,ScanWatch 2,Smartwatch,720,145
+Polar,Pacer Pro,Smartwatch,1108,146
+Polar,Pacer Pro,Smartwatch,469,147
+Amazfit,GTR 4,Smartwatch,1084,148
+Withings,ScanWatch 2,Smartwatch,712,149
+Apple,Watch Series 10,Smartwatch,206,150
+Polar,Pacer Pro,Smartwatch,763,151
+Polar,Vantage V3,Smartwatch,16,152
+Samsung,Galaxy Watch Ultra,Smartwatch,993,153
+Huawei,Watch GT 5,Smartwatch,1147,153
+Fitbit,Sense 2,Smartwatch,237,155
+Polar,Vantage V3,Smartwatch,611,155
+Amazfit,GTR 4,Smartwatch,1156,157
+Withings,ScanWatch 2,Smartwatch,431,158
+Samsung,Galaxy Watch FE,Smartwatch,1121,159
+Samsung,Galaxy Watch Ultra,Smartwatch,768,160
+Apple,Watch Ultra 2,Smartwatch,1114,161
+Withings,Steel HR,Smartwatch,1034,162
+Samsung,Galaxy Watch Ultra,Smartwatch,897,163
+Withings,Steel HR,Smartwatch,361,164
+Apple,Watch Series 10,Smartwatch,1058,165
+Amazfit,GTR 4,Smartwatch,553,166
+Polar,Pacer Pro,Smartwatch,1007,167
+Apple,Watch Series 10,Smartwatch,988,168
+Withings,ScanWatch 2,Smartwatch,452,169
+Withings,Steel HR,Smartwatch,368,170
+Fitbit,Sense 2,Smartwatch,299,171
+Polar,Vantage V3,Smartwatch,930,172
+Apple,Watch Series 10,Smartwatch,999,173
+Apple,Watch Series 10,Smartwatch,703,174
+Polar,Pacer Pro,Smartwatch,852,175
+Samsung,Galaxy Watch Ultra,Smartwatch,1221,176
+Huawei,Watch GT 5,Smartwatch,613,177
+Apple,Watch SE 3,Smartwatch,111,178
+Withings,ScanWatch 2,Smartwatch,49,179
+Polar,Pacer Pro,Smartwatch,962,180
+Polar,Pacer Pro,Smartwatch,613,181
+Samsung,Galaxy Watch 7,Smartwatch,3,182
+Amazfit,GTR 4,Smartwatch,343,183
+Polar,Pacer Pro,Smartwatch,890,184
+Huawei,Watch Ultimate,Smartwatch,957,185
+Apple,Watch Ultra 2,Smartwatch,103,186
+Polar,Pacer Pro,Smartwatch,936,187
+Samsung,Galaxy Watch FE,Smartwatch,962,188
+Samsung,Galaxy Watch 7,Smartwatch,532,189
+Samsung,Galaxy Watch Ultra,Smartwatch,343,190
+Apple,Watch Series 10,Smartwatch,301,191
+Polar,Pacer Pro,Smartwatch,1037,192
+Withings,Steel HR,Smartwatch,1099,193
+Amazfit,GTS 4,Smartwatch,122,194
+Withings,Steel HR,Smartwatch,903,195
+Apple,Watch SE 3,Smartwatch,2,196
+Samsung,Galaxy Watch FE,Smartwatch,167,197
+Withings,ScanWatch 2,Smartwatch,111,198
+Polar,Pacer Pro,Smartwatch,415,199
+Amazfit,GTS 4,Smartwatch,445,200
+Withings,Steel HR,Smartwatch,1108,201
+Withings,Steel HR,Smartwatch,452,202
+Polar,Vantage V3,Smartwatch,1144,203
+Amazfit,T-Rex 3,Smartwatch,913,204
+Amazfit,GTS 4,Smartwatch,1088,205
+Apple,Watch Series 10,Smartwatch,42,206
+Samsung,Galaxy Watch Ultra,Smartwatch,450,207
+Fitbit,Versa 4,Smartwatch,322,208
+Huawei,Band 9,Smartwatch,492,209
+Apple,Watch SE 3,Smartwatch,499,210
+Withings,Steel HR,Smartwatch,322,211
+Amazfit,T-Rex 3,Smartwatch,1133,212
+Polar,Vantage V3,Smartwatch,1206,213
+Samsung,Galaxy Watch Ultra,Smartwatch,7,214
+Huawei,Band 9,Smartwatch,556,215
+Fitbit,Versa 4,Smartwatch,1050,216
+Garmin,Fenix 8,Smartwatch,243,217
+Samsung,Galaxy Watch 7,Smartwatch,983,218
+Apple,Watch Series 10,Smartwatch,40,219
+Amazfit,T-Rex 3,Smartwatch,1162,220
+Huawei,Watch Ultimate,Smartwatch,972,221
+Withings,ScanWatch 2,Smartwatch,907,222
+Withings,Steel HR,Smartwatch,1188,223
+Samsung,Galaxy Watch 7,Smartwatch,346,224
+Apple,Watch Series 10,Smartwatch,744,225
+Apple,Watch Ultra 2,Smartwatch,592,226
+Polar,Pacer Pro,Smartwatch,164,227
+Amazfit,GTR 4,Smartwatch,249,228
+Apple,Watch SE 3,Smartwatch,198,229
+Samsung,Galaxy Watch FE,Smartwatch,882,230
+Samsung,Galaxy Watch Ultra,Smartwatch,25,231
+Apple,Watch SE 3,Smartwatch,391,232
+Samsung,Galaxy Watch 7,Smartwatch,1223,233
+Huawei,Watch 5,Smartwatch,792,234
+Withings,Steel HR,Smartwatch,619,235
+Polar,Pacer Pro,Smartwatch,990,236
+Samsung,Galaxy Watch FE,Smartwatch,1062,237
+Polar,Pacer Pro,Smartwatch,253,238
+Samsung,Galaxy Watch 7,Smartwatch,153,239
+Polar,Vantage V3,Smartwatch,1013,240
+Fitbit,Versa 4,Smartwatch,287,241
+Samsung,Galaxy Watch FE,Smartwatch,802,242
+Garmin,Enduro 3,Smartwatch,1173,243
+Amazfit,GTR 4,Smartwatch,865,244
+Samsung,Galaxy Watch 7,Smartwatch,69,245
+Polar,Vantage V3,Smartwatch,587,246
+Samsung,Galaxy Watch Ultra,Smartwatch,106,247
+Amazfit,GTS 4,Smartwatch,1166,248
+Polar,Pacer Pro,Smartwatch,458,249
+Apple,Watch Series 10,Smartwatch,600,250
+Withings,ScanWatch 2,Smartwatch,843,251
+Samsung,Galaxy Watch Ultra,Smartwatch,1007,252
+Samsung,Galaxy Watch Ultra,Smartwatch,893,253
+Samsung,Galaxy Watch FE,Smartwatch,1141,254
+Polar,Vantage V3,Smartwatch,752,255
+Samsung,Galaxy Watch Ultra,Smartwatch,403,256
+Fitbit,Sense 2,Smartwatch,584,257
+Fitbit,Sense 2,Smartwatch,319,258
+Huawei,Band 9,Smartwatch,561,259
+Fitbit,Sense 2,Smartwatch,135,260
+Apple,Watch Ultra 2,Smartwatch,481,261
+Amazfit,GTR 4,Smartwatch,1121,262
+Huawei,Watch GT 5,Smartwatch,517,263
+Samsung,Galaxy Watch 7,Smartwatch,942,264
+Withings,Steel HR,Smartwatch,765,265
+Polar,Vantage V3,Smartwatch,1119,266
+Apple,Watch SE 3,Smartwatch,1041,267
+Polar,Vantage V3,Smartwatch,685,268
+Apple,Watch SE 3,Smartwatch,506,269
+Samsung,Galaxy Watch 7,Smartwatch,863,270
+Samsung,Galaxy Watch Ultra,Smartwatch,1084,271
+Polar,Pacer Pro,Smartwatch,301,272
+Withings,Steel HR,Smartwatch,966,273
+Samsung,Galaxy Watch Ultra,Smartwatch,222,274
+Polar,Pacer Pro,Smartwatch,1017,275
+Amazfit,GTS 4,Smartwatch,445,276
+Polar,Vantage V3,Smartwatch,1170,277
+Garmin,Fenix 8,Smartwatch,580,278
+Apple,Watch Ultra 2,Smartwatch,103,279
+Polar,Pacer Pro,Smartwatch,720,280
+Withings,ScanWatch 2,Smartwatch,167,281
+Fitbit,Versa 4,Smartwatch,1149,282
+Apple,Watch Series 10,Smartwatch,792,283
+Amazfit,GTR 4,Smartwatch,343,284
+Samsung,Galaxy Watch Ultra,Smartwatch,1204,285
+Polar,Vantage V3,Smartwatch,634,286
+Apple,Watch SE 3,Smartwatch,426,287
+Huawei,Watch 5,Smartwatch,606,288
+Garmin,Enduro 3,Smartwatch,401,289
+Polar,Pacer Pro,Smartwatch,188,290
+Apple,Watch SE 3,Smartwatch,1017,291
+Huawei,Watch GT 5,Smartwatch,1217,292
+Withings,ScanWatch 2,Smartwatch,787,293
+Apple,Watch Ultra 2,Smartwatch,22,294
+Samsung,Galaxy Watch 7,Smartwatch,1184,294
+Amazfit,T-Rex 3,Smartwatch,182,296
+Samsung,Galaxy Watch Ultra,Smartwatch,606,297
+Apple,Watch Series 10,Smartwatch,122,298
+Polar,Vantage V3,Smartwatch,116,299
+Samsung,Galaxy Watch FE,Smartwatch,1210,300
+Polar,Vantage V3,Smartwatch,1179,301
+Apple,Watch SE 3,Smartwatch,1106,302
+Huawei,Watch Ultimate,Smartwatch,935,303
+Fitbit,Versa 4,Smartwatch,380,304
+Amazfit,GTR 4,Smartwatch,893,305
+Withings,ScanWatch 2,Smartwatch,151,306
+Withings,Steel HR,Smartwatch,848,307
+Apple,Watch SE 3,Smartwatch,660,308
+Samsung,Galaxy Watch FE,Smartwatch,327,309
+Samsung,Galaxy Watch FE,Smartwatch,361,310
+Polar,Pacer Pro,Smartwatch,1105,311
+Apple,Watch SE 3,Smartwatch,768,312
+Apple,Watch SE 3,Smartwatch,179,313
+Amazfit,GTR 4,Smartwatch,1149,314
+Amazfit,GTR 4,Smartwatch,716,315
+Withings,Steel HR,Smartwatch,212,316
+Samsung,Galaxy Watch Ultra,Smartwatch,374,317
+Polar,Vantage V3,Smartwatch,52,318
+Samsung,Galaxy Watch 7,Smartwatch,1007,319
+Amazfit,GTR 4,Smartwatch,759,320
+Huawei,Band 9,Smartwatch,753,321
+Garmin,Forerunner 965,Smartwatch,1072,322
+Polar,Pacer Pro,Smartwatch,542,323
+Polar,Pacer Pro,Smartwatch,396,324
+Huawei,Watch GT 5,Smartwatch,251,325
+Samsung,Galaxy Watch FE,Smartwatch,135,326
+Huawei,Watch Ultimate,Smartwatch,393,327
+Fitbit,Versa 4,Smartwatch,885,328
+Amazfit,GTR 4,Smartwatch,854,329
+Apple,Watch Ultra 2,Smartwatch,845,330
+Withings,Steel HR,Smartwatch,1223,331
+Samsung,Galaxy Watch Ultra,Smartwatch,524,332
+Garmin,Venu 3,Smartwatch,1179,333
+Amazfit,GTR 4,Smartwatch,973,334
+Withings,ScanWatch 2,Smartwatch,983,335
+Garmin,Instinct 2X,Smartwatch,1025,336
+Apple,Watch Series 10,Smartwatch,1230,337
+Withings,ScanWatch 2,Smartwatch,872,338
+Polar,Pacer Pro,Smartwatch,64,339
+Samsung,Galaxy Watch FE,Smartwatch,852,340
+Samsung,Galaxy Watch Ultra,Smartwatch,190,341
+Withings,Steel HR,Smartwatch,623,342
+Apple,Watch Ultra 2,Smartwatch,174,343
+Amazfit,GTS 4,Smartwatch,190,344
+Amazfit,GTR 4,Smartwatch,649,345
+Huawei,Watch GT 5,Smartwatch,913,346
+Samsung,Galaxy Watch 7,Smartwatch,418,347
+Polar,Vantage V3,Smartwatch,1193,348
+Withings,ScanWatch 2,Smartwatch,945,349
+Samsung,Galaxy Watch Ultra,Smartwatch,186,350
+Polar,Vantage V3,Smartwatch,1022,351
+Amazfit,GTS 4,Smartwatch,186,352
+Withings,ScanWatch 2,Smartwatch,685,353
+Apple,Watch Ultra 2,Smartwatch,690,354
+Amazfit,T-Rex 3,Smartwatch,609,355
+Withings,ScanWatch 2,Smartwatch,1194,356
+Apple,Watch SE 3,Smartwatch,253,357
+Polar,Vantage V3,Smartwatch,52,358
+Samsung,Galaxy Watch 7,Smartwatch,875,359
+Apple,Watch Series 10,Smartwatch,923,360
+Samsung,Galaxy Watch FE,Smartwatch,651,361
+Polar,Vantage V3,Smartwatch,517,362
+Polar,Pacer Pro,Smartwatch,1211,363
+Fitbit,Versa 4,Smartwatch,861,364
+Fitbit,Versa 4,Smartwatch,558,365
+Polar,Vantage V3,Smartwatch,748,366
+Garmin,Venu 3,Smartwatch,11,367
+Amazfit,T-Rex 3,Smartwatch,49,368
+Polar,Pacer Pro,Smartwatch,815,369
+Huawei,Watch 5,Smartwatch,189,370
+Huawei,Watch Ultimate,Smartwatch,1022,371
+Amazfit,GTS 4,Smartwatch,919,372
+Samsung,Galaxy Watch FE,Smartwatch,856,373
+Fitbit,Sense 2,Smartwatch,82,374
+Apple,Watch SE 3,Smartwatch,640,375
+Amazfit,GTR 4,Smartwatch,699,376
+Apple,Watch Ultra 2,Smartwatch,1156,377
+Polar,Vantage V3,Smartwatch,172,378
+Amazfit,GTS 4,Smartwatch,550,379
+Withings,ScanWatch 2,Smartwatch,679,380
+Garmin,Forerunner 965,Smartwatch,297,381
+Amazfit,GTS 4,Smartwatch,445,382
+Samsung,Galaxy Watch Ultra,Smartwatch,644,383
+Apple,Watch Series 10,Smartwatch,759,384
+Withings,Steel HR,Smartwatch,1229,385
+Withings,ScanWatch 2,Smartwatch,1173,386
+Amazfit,T-Rex 3,Smartwatch,856,387
+Samsung,Galaxy Watch 7,Smartwatch,1004,388
+Apple,Watch Ultra 2,Smartwatch,983,389
+Apple,Watch Series 10,Smartwatch,903,390
+Withings,Steel HR,Smartwatch,1078,391
+Polar,Vantage V3,Smartwatch,839,392
+Withings,Steel HR,Smartwatch,32,393
+Withings,ScanWatch 2,Smartwatch,532,394
+Apple,Watch Ultra 2,Smartwatch,206,395
+Amazfit,T-Rex 3,Smartwatch,1188,396
+Samsung,Galaxy Watch Ultra,Smartwatch,1017,397
+Fitbit,Sense 2,Smartwatch,7,398
+Fitbit,Versa 4,Smartwatch,988,399
+Samsung,Galaxy Watch FE,Smartwatch,536,400
+Apple,Watch Ultra 2,Smartwatch,854,401
+Fitbit,Versa 4,Smartwatch,690,402
+Apple,Watch SE 3,Smartwatch,450,403
+Huawei,Watch GT 5,Smartwatch,510,403
+Polar,Pacer Pro,Smartwatch,863,405
+Apple,Watch SE 3,Smartwatch,37,406
+Samsung,Galaxy Watch FE,Smartwatch,1125,407
+Samsung,Galaxy Watch 7,Smartwatch,311,408
+Apple,Watch Series 10,Smartwatch,376,409
+Samsung,Galaxy Watch Ultra,Smartwatch,720,410
+Withings,Steel HR,Smartwatch,478,411
+Apple,Watch Series 10,Smartwatch,59,412
+Samsung,Galaxy Watch FE,Smartwatch,348,413
+Polar,Vantage V3,Smartwatch,383,414
+Fitbit,Versa 4,Smartwatch,289,415
+Withings,Steel HR,Smartwatch,243,416
+Samsung,Galaxy Watch 7,Smartwatch,792,417
+Fitbit,Sense 2,Smartwatch,897,418
+Polar,Pacer Pro,Smartwatch,465,419
+Samsung,Galaxy Watch FE,Smartwatch,45,420
+Polar,Vantage V3,Smartwatch,998,421
+Samsung,Galaxy Watch FE,Smartwatch,833,422
+Huawei,Watch Ultimate,Smartwatch,1081,423
+Apple,Watch SE 3,Smartwatch,282,424
+Samsung,Galaxy Watch 7,Smartwatch,912,425
+Polar,Pacer Pro,Smartwatch,130,426
+Apple,Watch Ultra 2,Smartwatch,729,427
+Apple,Watch SE 3,Smartwatch,1058,428
+Polar,Pacer Pro,Smartwatch,636,429
+Garmin,Forerunner 965,Smartwatch,1003,430
+Polar,Vantage V3,Smartwatch,568,431
+Polar,Pacer Pro,Smartwatch,975,432
+Apple,Watch SE 3,Smartwatch,931,433
+Samsung,Galaxy Watch FE,Smartwatch,240,434
+Polar,Vantage V3,Smartwatch,61,435
+Garmin,Venu 3,Smartwatch,1166,436
+Samsung,Galaxy Watch FE,Smartwatch,844,437
+Polar,Pacer Pro,Smartwatch,52,438
+Samsung,Galaxy Watch Ultra,Smartwatch,1177,439
+Huawei,Band 9,Smartwatch,547,440
+Polar,Vantage V3,Smartwatch,466,441
+Samsung,Galaxy Watch FE,Smartwatch,790,442
+Fitbit,Versa 4,Smartwatch,287,443
+Polar,Pacer Pro,Smartwatch,530,444
+Polar,Vantage V3,Smartwatch,468,445
+Garmin,Venu 3,Smartwatch,1119,446
+Samsung,Galaxy Watch FE,Smartwatch,1034,447
+Samsung,Galaxy Watch FE,Smartwatch,174,447
+Apple,Watch Series 10,Smartwatch,1097,449
+Withings,Steel HR,Smartwatch,1118,450
+Huawei,Watch 5,Smartwatch,667,451
+Samsung,Galaxy Watch FE,Smartwatch,291,452
+Samsung,Galaxy Watch FE,Smartwatch,322,453
+Samsung,Galaxy Watch 7,Smartwatch,445,454
+Polar,Pacer Pro,Smartwatch,1125,455
+Samsung,Galaxy Watch 7,Smartwatch,644,456
+Fitbit,Sense 2,Smartwatch,623,457
+Fitbit,Versa 4,Smartwatch,746,458
+Huawei,Watch Ultimate,Smartwatch,266,459
+Fitbit,Sense 2,Smartwatch,12,460
+Withings,ScanWatch 2,Smartwatch,1004,461
+Apple,Watch Series 10,Smartwatch,1211,462
+Apple,Watch Series 10,Smartwatch,775,463
+Polar,Pacer Pro,Smartwatch,461,464
+Apple,Watch SE 3,Smartwatch,383,465
+Huawei,Watch GT 5,Smartwatch,436,466
+Withings,ScanWatch 2,Smartwatch,278,467
+Withings,ScanWatch 2,Smartwatch,574,468
+Polar,Pacer Pro,Smartwatch,1168,469
+Apple,Watch Series 10,Smartwatch,373,470
+Apple,Watch Ultra 2,Smartwatch,790,471
+Samsung,Galaxy Watch FE,Smartwatch,228,472
+Garmin,Fenix 8,Smartwatch,1054,473
+Apple,Watch Series 10,Smartwatch,720,474
+Withings,Steel HR,Smartwatch,931,475
+Samsung,Galaxy Watch 7,Smartwatch,252,476
+Polar,Pacer Pro,Smartwatch,49,477
+Garmin,Venu 3,Smartwatch,676,478
+Withings,Steel HR,Smartwatch,240,479
+Apple,Watch Series 10,Smartwatch,218,480
+Garmin,Venu 3,Smartwatch,927,481
+Huawei,Watch GT 5,Smartwatch,845,482
+Garmin,Instinct 2X,Smartwatch,705,483
+Polar,Pacer Pro,Smartwatch,945,484
+Withings,Steel HR,Smartwatch,140,485
+Withings,Steel HR,Smartwatch,206,486
+Huawei,Band 9,Smartwatch,118,487
+Polar,Pacer Pro,Smartwatch,413,488
+Apple,Watch Series 10,Smartwatch,1041,489
+Withings,ScanWatch 2,Smartwatch,561,490
+Polar,Vantage V3,Smartwatch,41,491
+Huawei,Band 9,Smartwatch,240,492
+Garmin,Instinct 2X,Smartwatch,226,493
+Samsung,Galaxy Watch FE,Smartwatch,823,494
+Samsung,Galaxy Watch FE,Smartwatch,596,495
+Samsung,Galaxy Watch FE,Smartwatch,376,496
+Garmin,Instinct 2X,Smartwatch,739,497
+Polar,Vantage V3,Smartwatch,953,498
+Huawei,Band 9,Smartwatch,517,499
+Samsung,Galaxy Watch 7,Smartwatch,969,500
+Samsung,Galaxy Watch 7,Smartwatch,875,501
+Apple,Watch SE 3,Smartwatch,1140,502
+Huawei,Watch GT 5,Smartwatch,1133,503
+Polar,Vantage V3,Smartwatch,753,504
+Samsung,Galaxy Watch FE,Smartwatch,541,505
+Polar,Vantage V3,Smartwatch,235,506
+Huawei,Watch 5,Smartwatch,415,507
+Polar,Vantage V3,Smartwatch,848,508
+Huawei,Watch GT 5,Smartwatch,524,509
+Samsung,Galaxy Watch Ultra,Smartwatch,572,510
+Samsung,Galaxy Watch FE,Smartwatch,463,511
+Withings,ScanWatch 2,Smartwatch,679,512
+Garmin,Forerunner 965,Smartwatch,594,513
+Polar,Vantage V3,Smartwatch,561,514
+Apple,Watch SE 3,Smartwatch,231,515
+Huawei,Watch 5,Smartwatch,3,516
+Samsung,Galaxy Watch Ultra,Smartwatch,401,517
+Samsung,Galaxy Watch 7,Smartwatch,478,518
+Apple,Watch Ultra 2,Smartwatch,307,519
+Polar,Vantage V3,Smartwatch,777,520
+Withings,ScanWatch 2,Smartwatch,618,521
+Samsung,Galaxy Watch 7,Smartwatch,768,522
+Polar,Pacer Pro,Smartwatch,99,523
+Samsung,Galaxy Watch FE,Smartwatch,768,524
+Withings,ScanWatch 2,Smartwatch,613,525
+Apple,Watch Series 10,Smartwatch,865,526
+Apple,Watch Ultra 2,Smartwatch,837,527
+Polar,Vantage V3,Smartwatch,299,528
+Samsung,Galaxy Watch Ultra,Smartwatch,392,529
+Withings,Steel HR,Smartwatch,434,530
+Polar,Pacer Pro,Smartwatch,325,531
+Apple,Watch SE 3,Smartwatch,609,532
+Huawei,Watch Ultimate,Smartwatch,135,533
+Huawei,Band 9,Smartwatch,978,534
+Apple,Watch SE 3,Smartwatch,1,535
+Samsung,Galaxy Watch 7,Smartwatch,601,536
+Withings,Steel HR,Smartwatch,1058,537
+Withings,ScanWatch 2,Smartwatch,736,538
+Apple,Watch Series 10,Smartwatch,361,539
+Samsung,Galaxy Watch FE,Smartwatch,16,540
+Samsung,Galaxy Watch Ultra,Smartwatch,1025,541
+Samsung,Galaxy Watch Ultra,Smartwatch,202,542
+Polar,Vantage V3,Smartwatch,923,543
+Huawei,Watch 5,Smartwatch,1123,544
+Polar,Pacer Pro,Smartwatch,472,545
+Samsung,Galaxy Watch FE,Smartwatch,32,546
+Apple,Watch SE 3,Smartwatch,305,547
+Apple,Watch SE 3,Smartwatch,1153,548
+Polar,Vantage V3,Smartwatch,601,549
+Samsung,Galaxy Watch FE,Smartwatch,361,550
+Samsung,Galaxy Watch Ultra,Smartwatch,411,551
+Samsung,Galaxy Watch FE,Smartwatch,897,552
+Polar,Vantage V3,Smartwatch,23,553
+Polar,Vantage V3,Smartwatch,424,554
+Samsung,Galaxy Watch Ultra,Smartwatch,218,555
+Samsung,Galaxy Watch FE,Smartwatch,833,556
+Polar,Pacer Pro,Smartwatch,139,557
+Withings,ScanWatch 2,Smartwatch,20,557
+Huawei,Watch GT 5,Smartwatch,436,559
+Garmin,Forerunner 965,Smartwatch,492,560
+Huawei,Watch GT 5,Smartwatch,301,561
+Apple,Watch Ultra 2,Smartwatch,436,562
+Apple,Watch Series 10,Smartwatch,296,563
+Withings,Steel HR,Smartwatch,559,564
+Huawei,Band 9,Smartwatch,194,565
+Huawei,Watch GT 5,Smartwatch,472,566
+Apple,Watch Ultra 2,Smartwatch,276,567
+Withings,Steel HR,Smartwatch,830,568
+Apple,Watch Ultra 2,Smartwatch,198,569
+Samsung,Galaxy Watch 7,Smartwatch,167,570
+Withings,ScanWatch 2,Smartwatch,1207,571
+Samsung,Galaxy Watch 7,Smartwatch,598,572
+Samsung,Galaxy Watch Ultra,Smartwatch,821,573
+Polar,Vantage V3,Smartwatch,190,574
+Samsung,Galaxy Watch Ultra,Smartwatch,785,575
+Apple,Watch Series 10,Smartwatch,1178,576
+Samsung,Galaxy Watch Ultra,Smartwatch,978,577
+Polar,Pacer Pro,Smartwatch,907,578
+Samsung,Galaxy Watch 7,Smartwatch,117,579
+Polar,Pacer Pro,Smartwatch,472,580
+Apple,Watch Ultra 2,Smartwatch,69,581
+Polar,Pacer Pro,Smartwatch,99,582
+Withings,Steel HR,Smartwatch,202,583
+Withings,Steel HR,Smartwatch,396,584
+Samsung,Galaxy Watch FE,Smartwatch,485,585
+Samsung,Galaxy Watch Ultra,Smartwatch,1108,586
+Apple,Watch SE 3,Smartwatch,931,587
+Huawei,Watch Ultimate,Smartwatch,941,588
+Samsung,Galaxy Watch FE,Smartwatch,1186,589
+Withings,Steel HR,Smartwatch,893,590
+Huawei,Watch Ultimate,Smartwatch,995,591
+Withings,Steel HR,Smartwatch,581,592
+Huawei,Watch Ultimate,Smartwatch,811,593
+Garmin,Fenix 8,Smartwatch,823,594
+Polar,Pacer Pro,Smartwatch,97,595
+Samsung,Galaxy Watch FE,Smartwatch,1015,596
+Samsung,Galaxy Watch Ultra,Smartwatch,739,597
+Huawei,Watch 5,Smartwatch,845,598
+Huawei,Watch 5,Smartwatch,69,599
+Polar,Vantage V3,Smartwatch,767,600
+Apple,Watch Series 10,Smartwatch,147,601
+Garmin,Venu 3,Smartwatch,1170,602
+Samsung,Galaxy Watch FE,Smartwatch,200,603
+Withings,ScanWatch 2,Smartwatch,598,604
+Withings,ScanWatch 2,Smartwatch,568,605
+Samsung,Galaxy Watch Ultra,Smartwatch,739,606
+Huawei,Band 9,Smartwatch,301,607
+Polar,Pacer Pro,Smartwatch,106,608
+Samsung,Galaxy Watch 7,Smartwatch,153,609
+Withings,ScanWatch 2,Smartwatch,466,610
+Huawei,Watch Ultimate,Smartwatch,983,611
+Samsung,Galaxy Watch Ultra,Smartwatch,1131,612
+Garmin,Forerunner 965,Smartwatch,1063,613
+Apple,Watch Ultra 2,Smartwatch,380,614
+Huawei,Watch 5,Smartwatch,228,615
+Polar,Vantage V3,Smartwatch,42,616
+Samsung,Galaxy Watch FE,Smartwatch,657,617
+Garmin,Venu 3,Smartwatch,16,618
+Polar,Vantage V3,Smartwatch,719,619
+Garmin,Instinct 2X,Smartwatch,572,620
+Huawei,Watch 5,Smartwatch,872,621
+Withings,Steel HR,Smartwatch,1047,622
+Withings,ScanWatch 2,Smartwatch,132,623
+Apple,Watch Series 10,Smartwatch,151,624
+Huawei,Watch 5,Smartwatch,348,625
+Samsung,Galaxy Watch Ultra,Smartwatch,273,626
+Garmin,Enduro 3,Smartwatch,1092,627
+Garmin,Forerunner 965,Smartwatch,700,628
+Withings,ScanWatch 2,Smartwatch,388,629
+Samsung,Galaxy Watch Ultra,Smartwatch,628,630
+Polar,Pacer Pro,Smartwatch,632,631
+Apple,Watch Series 10,Smartwatch,222,632
+Samsung,Galaxy Watch FE,Smartwatch,276,633
+Withings,ScanWatch 2,Smartwatch,720,634
+Samsung,Galaxy Watch Ultra,Smartwatch,47,635
+Samsung,Galaxy Watch Ultra,Smartwatch,170,636
+Apple,Watch Series 10,Smartwatch,487,637
+Garmin,Venu 3,Smartwatch,423,638
+Polar,Vantage V3,Smartwatch,212,639
+Polar,Pacer Pro,Smartwatch,316,640
+Polar,Vantage V3,Smartwatch,732,641
+Huawei,Watch GT 5,Smartwatch,407,642
+Huawei,Watch Ultimate,Smartwatch,746,643
+Withings,Steel HR,Smartwatch,142,644
+Garmin,Venu 3,Smartwatch,679,645
+Polar,Vantage V3,Smartwatch,429,646
+Withings,ScanWatch 2,Smartwatch,640,647
+Polar,Pacer Pro,Smartwatch,353,648
+Samsung,Galaxy Watch FE,Smartwatch,884,649
+Polar,Pacer Pro,Smartwatch,720,650
+Huawei,Watch Ultimate,Smartwatch,663,651
+Huawei,Watch Ultimate,Smartwatch,601,652
+Polar,Pacer Pro,Smartwatch,775,652
+Garmin,Enduro 3,Smartwatch,52,654
+Apple,Watch Series 10,Smartwatch,337,655
+Samsung,Galaxy Watch Ultra,Smartwatch,1133,656
+Withings,ScanWatch 2,Smartwatch,951,657
+Samsung,Galaxy Watch Ultra,Smartwatch,524,658
+Withings,Steel HR,Smartwatch,194,659
+Samsung,Galaxy Watch 7,Smartwatch,147,660
+Apple,Watch SE 3,Smartwatch,640,661
+Withings,Steel HR,Smartwatch,720,662
+Huawei,Band 9,Smartwatch,481,663
+Apple,Watch Series 10,Smartwatch,823,664
+Polar,Pacer Pro,Smartwatch,205,665
+Garmin,Venu 3,Smartwatch,657,666
+Samsung,Galaxy Watch Ultra,Smartwatch,492,667
+Samsung,Galaxy Watch 7,Smartwatch,560,668
+Huawei,Watch GT 5,Smartwatch,327,669
+Samsung,Galaxy Watch FE,Smartwatch,247,670
+Huawei,Watch 5,Smartwatch,709,671
+Withings,ScanWatch 2,Smartwatch,433,672
+Apple,Watch Ultra 2,Smartwatch,233,673
+Samsung,Galaxy Watch Ultra,Smartwatch,1201,674
+Polar,Vantage V3,Smartwatch,813,675
+Apple,Watch SE 3,Smartwatch,77,676
+Apple,Watch Series 10,Smartwatch,393,677
+Withings,Steel HR,Smartwatch,46,678
+Apple,Watch Ultra 2,Smartwatch,594,679
+Apple,Watch Series 10,Smartwatch,1063,680
+Polar,Vantage V3,Smartwatch,1089,681
+Withings,ScanWatch 2,Smartwatch,520,682
+Polar,Vantage V3,Smartwatch,543,683
+Polar,Vantage V3,Smartwatch,267,684
+Withings,ScanWatch 2,Smartwatch,990,685
+Samsung,Galaxy Watch 7,Smartwatch,1047,686
+Samsung,Galaxy Watch FE,Smartwatch,442,687
+Apple,Watch Ultra 2,Smartwatch,697,688
+Huawei,Watch Ultimate,Smartwatch,182,689
+Apple,Watch SE 3,Smartwatch,102,690
+Polar,Pacer Pro,Smartwatch,452,691
+Withings,ScanWatch 2,Smartwatch,744,692
+Samsung,Galaxy Watch FE,Smartwatch,396,693
+Samsung,Galaxy Watch FE,Smartwatch,77,694
+Apple,Watch Series 10,Smartwatch,761,695
+Huawei,Watch 5,Smartwatch,1078,696
+Polar,Vantage V3,Smartwatch,500,697
+Withings,ScanWatch 2,Smartwatch,756,698
+Withings,ScanWatch 2,Smartwatch,434,699
+Samsung,Galaxy Watch FE,Smartwatch,87,700
+Samsung,Galaxy Watch Ultra,Smartwatch,64,701
+Samsung,Galaxy Watch Ultra,Smartwatch,548,702
+Samsung,Galaxy Watch Ultra,Smartwatch,387,703
+Garmin,Instinct 2X,Smartwatch,286,704
+Withings,Steel HR,Smartwatch,660,705
+Apple,Watch SE 3,Smartwatch,818,706
+Polar,Vantage V3,Smartwatch,27,707
+Samsung,Galaxy Watch 7,Smartwatch,262,708
+Apple,Watch Series 10,Smartwatch,1186,709
+Garmin,Fenix 8,Smartwatch,282,710
+Apple,Watch Series 10,Smartwatch,990,711
+Apple,Watch Ultra 2,Smartwatch,583,712
+Samsung,Galaxy Watch FE,Smartwatch,520,713
+Withings,ScanWatch 2,Smartwatch,257,714
+Apple,Watch SE 3,Smartwatch,936,715
+Apple,Watch SE 3,Smartwatch,821,716
+Huawei,Band 9,Smartwatch,1031,717
+Samsung,Galaxy Watch FE,Smartwatch,666,718
+Apple,Watch SE 3,Smartwatch,871,719
+Polar,Vantage V3,Smartwatch,1114,720
+Samsung,Galaxy Watch Ultra,Smartwatch,174,721
+Samsung,Galaxy Watch 7,Smartwatch,400,722
+Polar,Pacer Pro,Smartwatch,707,723
+Apple,Watch SE 3,Smartwatch,150,724
+Apple,Watch Ultra 2,Smartwatch,561,725
+Samsung,Galaxy Watch FE,Smartwatch,736,726
+Apple,Watch Ultra 2,Smartwatch,1030,727
+Huawei,Watch Ultimate,Smartwatch,596,728
+Apple,Watch SE 3,Smartwatch,632,729
+Polar,Pacer Pro,Smartwatch,969,730
+Samsung,Galaxy Watch 7,Smartwatch,383,731
+Polar,Pacer Pro,Smartwatch,452,732
+Samsung,Galaxy Watch 7,Smartwatch,1125,733
+Samsung,Galaxy Watch 7,Smartwatch,472,734
+Apple,Watch SE 3,Smartwatch,1065,735
+Withings,ScanWatch 2,Smartwatch,728,736
+Garmin,Forerunner 965,Smartwatch,1125,737
+Samsung,Galaxy Watch Ultra,Smartwatch,900,738
+Withings,Steel HR,Smartwatch,901,739
+Samsung,Galaxy Watch 7,Smartwatch,649,740
+Apple,Watch Ultra 2,Smartwatch,278,741
+Huawei,Watch 5,Smartwatch,319,742
+Garmin,Venu 3,Smartwatch,1197,743
+Apple,Watch Ultra 2,Smartwatch,164,744
+Withings,ScanWatch 2,Smartwatch,181,745
+Withings,ScanWatch 2,Smartwatch,218,746
+Huawei,Watch GT 5,Smartwatch,426,747
+Polar,Pacer Pro,Smartwatch,510,748
+Polar,Vantage V3,Smartwatch,1188,749
+Withings,ScanWatch 2,Smartwatch,798,750
+Huawei,Band 9,Smartwatch,965,751
+Apple,Watch Ultra 2,Smartwatch,327,752
+Polar,Pacer Pro,Smartwatch,1153,753
+Garmin,Fenix 8,Smartwatch,1084,754
+Polar,Pacer Pro,Smartwatch,325,755
+Huawei,Watch GT 5,Smartwatch,753,756
+Huawei,Band 9,Smartwatch,765,757
+Withings,ScanWatch 2,Smartwatch,122,758
+Withings,ScanWatch 2,Smartwatch,619,759
+Huawei,Watch GT 5,Smartwatch,153,760
+Huawei,Watch GT 5,Smartwatch,262,761
+Apple,Watch SE 3,Smartwatch,826,762
+Samsung,Galaxy Watch Ultra,Smartwatch,1010,763
+Huawei,Band 9,Smartwatch,125,764
+Samsung,Galaxy Watch FE,Smartwatch,805,765
+Samsung,Galaxy Watch 7,Smartwatch,966,766
+Huawei,Watch GT 5,Smartwatch,7,767
+Apple,Watch Ultra 2,Smartwatch,103,768
+Polar,Vantage V3,Smartwatch,44,769
+Samsung,Galaxy Watch Ultra,Smartwatch,875,770
+Samsung,Galaxy Watch Ultra,Smartwatch,158,771
+Samsung,Galaxy Watch 7,Smartwatch,695,772
+Apple,Watch Series 10,Smartwatch,481,773
+Apple,Watch Ultra 2,Smartwatch,907,774
+Polar,Vantage V3,Smartwatch,673,775
+Withings,Steel HR,Smartwatch,98,776
+Withings,Steel HR,Smartwatch,182,777
+Garmin,Enduro 3,Smartwatch,28,778
+Huawei,Watch 5,Smartwatch,856,779
+Samsung,Galaxy Watch Ultra,Smartwatch,561,780
+Samsung,Galaxy Watch Ultra,Smartwatch,1125,781
+Samsung,Galaxy Watch FE,Smartwatch,212,782
+Huawei,Watch Ultimate,Smartwatch,1181,783
+Samsung,Galaxy Watch Ultra,Smartwatch,506,784
+Samsung,Galaxy Watch FE,Smartwatch,333,785
+Garmin,Forerunner 965,Smartwatch,249,786
+Polar,Pacer Pro,Smartwatch,380,787
+Samsung,Galaxy Watch 7,Smartwatch,145,788
+Samsung,Galaxy Watch 7,Smartwatch,809,789
+Apple,Watch Series 10,Smartwatch,278,790
+Polar,Pacer Pro,Smartwatch,237,791
+Polar,Pacer Pro,Smartwatch,1207,792
+Withings,Steel HR,Smartwatch,975,793
+Withings,ScanWatch 2,Smartwatch,354,794
+Huawei,Watch GT 5,Smartwatch,995,795
+Polar,Pacer Pro,Smartwatch,121,796
+Polar,Vantage V3,Smartwatch,407,797
+Apple,Watch SE 3,Smartwatch,217,798
+Polar,Vantage V3,Smartwatch,426,799
+Withings,Steel HR,Smartwatch,459,800
+Withings,ScanWatch 2,Smartwatch,785,801
+Withings,ScanWatch 2,Smartwatch,663,802
+Samsung,Galaxy Watch 7,Smartwatch,875,803
+Huawei,Band 9,Smartwatch,842,804
+Withings,ScanWatch 2,Smartwatch,20,805
+Apple,Watch SE 3,Smartwatch,1141,806
+Samsung,Galaxy Watch Ultra,Smartwatch,1065,807
+Samsung,Galaxy Watch FE,Smartwatch,879,808
+Huawei,Watch Ultimate,Smartwatch,779,809
+Samsung,Galaxy Watch Ultra,Smartwatch,1227,810
+Huawei,Band 9,Smartwatch,147,811
+Polar,Pacer Pro,Smartwatch,1092,812
+Apple,Watch Series 10,Smartwatch,91,813
+Apple,Watch SE 3,Smartwatch,89,814
+Polar,Vantage V3,Smartwatch,813,815
+Samsung,Galaxy Watch FE,Smartwatch,756,816
+Polar,Pacer Pro,Smartwatch,200,817
+Samsung,Galaxy Watch FE,Smartwatch,919,818
+Huawei,Watch GT 5,Smartwatch,452,819
+Samsung,Galaxy Watch Ultra,Smartwatch,575,820
+Samsung,Galaxy Watch 7,Smartwatch,1102,821
+Samsung,Galaxy Watch Ultra,Smartwatch,1197,822
+Samsung,Galaxy Watch FE,Smartwatch,1181,823
+Huawei,Watch Ultimate,Smartwatch,1204,824
+Huawei,Watch GT 5,Smartwatch,584,825
+Huawei,Watch Ultimate,Smartwatch,636,826
+Samsung,Galaxy Watch Ultra,Smartwatch,79,827
+Samsung,Galaxy Watch Ultra,Smartwatch,1162,828
+Apple,Watch Series 10,Smartwatch,887,829
+Huawei,Watch 5,Smartwatch,1108,830
+Garmin,Instinct 2X,Smartwatch,1031,831
+Apple,Watch SE 3,Smartwatch,403,832
+Huawei,Watch Ultimate,Smartwatch,411,833
+Apple,Watch SE 3,Smartwatch,337,834
+Huawei,Watch GT 5,Smartwatch,922,835
+Huawei,Watch GT 5,Smartwatch,768,836
+Apple,Watch Ultra 2,Smartwatch,418,837
+Apple,Watch Ultra 2,Smartwatch,622,838
+Samsung,Galaxy Watch FE,Smartwatch,106,839
+Apple,Watch Ultra 2,Smartwatch,510,840
+Samsung,Galaxy Watch Ultra,Smartwatch,418,841
+Samsung,Galaxy Watch FE,Smartwatch,52,842
+Apple,Watch SE 3,Smartwatch,714,843
+Samsung,Galaxy Watch Ultra,Smartwatch,1065,844
+Apple,Watch Series 10,Smartwatch,1168,845
+Samsung,Galaxy Watch FE,Smartwatch,222,846
+Huawei,Watch Ultimate,Smartwatch,669,847
+Huawei,Watch 5,Smartwatch,79,848
+Samsung,Galaxy Watch Ultra,Smartwatch,94,849
+Samsung,Galaxy Watch FE,Smartwatch,476,850
+Samsung,Galaxy Watch FE,Smartwatch,253,851
+Samsung,Galaxy Watch 7,Smartwatch,257,852
+Garmin,Enduro 3,Smartwatch,52,853
+Garmin,Forerunner 965,Smartwatch,1031,854
+Apple,Watch Series 10,Smartwatch,407,855
+Samsung,Galaxy Watch FE,Smartwatch,1004,856
+Huawei,Watch 5,Smartwatch,358,857
+Samsung,Galaxy Watch FE,Smartwatch,561,858
+Huawei,Watch 5,Smartwatch,354,859
+Samsung,Galaxy Watch FE,Smartwatch,953,860
+Garmin,Fenix 8,Smartwatch,826,861
+Garmin,Enduro 3,Smartwatch,999,862
+Garmin,Instinct 2X,Smartwatch,524,863
+Apple,Watch Series 10,Smartwatch,636,864
+Apple,Watch SE 3,Smartwatch,887,865
+Apple,Watch SE 3,Smartwatch,485,866
+Apple,Watch Series 10,Smartwatch,865,867
+Huawei,Band 9,Smartwatch,1144,868
+Samsung,Galaxy Watch FE,Smartwatch,592,869
+Apple,Watch SE 3,Smartwatch,82,870
+Huawei,Watch Ultimate,Smartwatch,1043,871
+Apple,Watch Series 10,Smartwatch,716,872
+Samsung,Galaxy Watch 7,Smartwatch,490,873
+Apple,Watch SE 3,Smartwatch,135,874
+Apple,Watch Series 10,Smartwatch,743,875
+Samsung,Galaxy Watch FE,Smartwatch,543,876
+Huawei,Watch 5,Smartwatch,703,877
+Huawei,Watch 5,Smartwatch,231,878
+Apple,Watch SE 3,Smartwatch,655,879
+Garmin,Fenix 8,Smartwatch,805,880
+Apple,Watch Ultra 2,Smartwatch,1114,881
+Huawei,Watch Ultimate,Smartwatch,604,882
+Apple,Watch Ultra 2,Smartwatch,496,883
+Apple,Watch Series 10,Smartwatch,161,884
+Samsung,Galaxy Watch 7,Smartwatch,413,885
+Samsung,Galaxy Watch FE,Smartwatch,25,886
+Samsung,Galaxy Watch Ultra,Smartwatch,687,887
+Apple,Watch Series 10,Smartwatch,278,888
+Garmin,Fenix 8,Smartwatch,818,889
+Apple,Watch SE 3,Smartwatch,314,890
+Huawei,Watch 5,Smartwatch,314,891
+Samsung,Galaxy Watch 7,Smartwatch,1137,892
+Samsung,Galaxy Watch FE,Smartwatch,1072,893
+Garmin,Instinct 2X,Smartwatch,510,894
+Huawei,Band 9,Smartwatch,1114,895
+Apple,Watch Ultra 2,Smartwatch,73,896
+Samsung,Galaxy Watch 7,Smartwatch,73,897
+Huawei,Band 9,Smartwatch,942,898
+Huawei,Band 9,Smartwatch,28,899
+Samsung,Galaxy Watch Ultra,Smartwatch,294,900
+Samsung,Galaxy Watch FE,Smartwatch,441,901
+Samsung,Galaxy Watch Ultra,Smartwatch,1052,902
+Samsung,Galaxy Watch Ultra,Smartwatch,257,903
+Samsung,Galaxy Watch FE,Smartwatch,604,904
+Huawei,Watch Ultimate,Smartwatch,538,905
+Apple,Watch Series 10,Smartwatch,553,906
+Samsung,Galaxy Watch FE,Smartwatch,1181,907
+Apple,Watch Ultra 2,Smartwatch,357,908
+Samsung,Galaxy Watch FE,Smartwatch,1161,909
+Apple,Watch Ultra 2,Smartwatch,927,910
+Apple,Watch Series 10,Smartwatch,58,911
+Samsung,Galaxy Watch 7,Smartwatch,787,912
+Samsung,Galaxy Watch 7,Smartwatch,469,913
+Apple,Watch SE 3,Smartwatch,348,914
+Samsung,Galaxy Watch Ultra,Smartwatch,161,915
+Samsung,Galaxy Watch 7,Smartwatch,1065,916
+Apple,Watch Series 10,Smartwatch,306,917
+Garmin,Enduro 3,Smartwatch,160,918
+Samsung,Galaxy Watch FE,Smartwatch,1195,919
+Garmin,Fenix 8,Smartwatch,1016,920
+Garmin,Fenix 8,Smartwatch,64,921
+Huawei,Band 9,Smartwatch,365,922
+Huawei,Watch Ultimate,Smartwatch,505,923
+Apple,Watch Ultra 2,Smartwatch,921,924
+Garmin,Fenix 8,Smartwatch,1149,925
+Samsung,Galaxy Watch FE,Smartwatch,170,926
+Samsung,Galaxy Watch FE,Smartwatch,348,927
+Garmin,Venu 3,Smartwatch,128,928
+Samsung,Galaxy Watch 7,Smartwatch,1047,929
+Samsung,Galaxy Watch FE,Smartwatch,673,930
+Samsung,Galaxy Watch Ultra,Smartwatch,815,931
+Apple,Watch Series 10,Smartwatch,524,932
+Huawei,Watch Ultimate,Smartwatch,1092,933
+Huawei,Band 9,Smartwatch,623,934
+Garmin,Venu 3,Smartwatch,1052,935
+Garmin,Forerunner 965,Smartwatch,768,936
+Samsung,Galaxy Watch 7,Smartwatch,777,937
+Apple,Watch SE 3,Smartwatch,787,938
+Huawei,Watch GT 5,Smartwatch,111,939
+Apple,Watch SE 3,Smartwatch,257,940
+Huawei,Watch GT 5,Smartwatch,319,941
+Huawei,Band 9,Smartwatch,140,942
+Garmin,Fenix 8,Smartwatch,1087,943
+Huawei,Watch 5,Smartwatch,7,944
+Samsung,Galaxy Watch Ultra,Smartwatch,640,945
+Huawei,Watch GT 5,Smartwatch,37,946
+Huawei,Watch 5,Smartwatch,452,947
+Apple,Watch SE 3,Smartwatch,550,948
+Huawei,Watch 5,Smartwatch,436,949
+Huawei,Watch 5,Smartwatch,1153,950
+Samsung,Galaxy Watch FE,Smartwatch,461,951
+Samsung,Galaxy Watch Ultra,Smartwatch,964,952
+Huawei,Watch 5,Smartwatch,829,953
+Samsung,Galaxy Watch FE,Smartwatch,316,954
+Garmin,Instinct 2X,Smartwatch,1037,955
+Garmin,Forerunner 965,Smartwatch,19,956
+Garmin,Instinct 2X,Smartwatch,333,957
+Huawei,Watch Ultimate,Smartwatch,861,958
+Apple,Watch SE 3,Smartwatch,869,959
+Huawei,Band 9,Smartwatch,206,960
+Garmin,Instinct 2X,Smartwatch,119,961
+Apple,Watch Ultra 2,Smartwatch,839,962
+Apple,Watch Series 10,Smartwatch,365,963
+Huawei,Band 9,Smartwatch,1170,964
+Garmin,Venu 3,Smartwatch,576,965
+Apple,Watch Series 10,Smartwatch,1184,966
+Huawei,Band 9,Smartwatch,316,967
+Huawei,Watch Ultimate,Smartwatch,628,968
+Samsung,Galaxy Watch 7,Smartwatch,1017,969
+Samsung,Galaxy Watch 7,Smartwatch,133,970
+Samsung,Galaxy Watch Ultra,Smartwatch,792,971
+Garmin,Forerunner 965,Smartwatch,436,972
+Samsung,Galaxy Watch Ultra,Smartwatch,999,973
+Garmin,Instinct 2X,Smartwatch,3,974
+Samsung,Galaxy Watch Ultra,Smartwatch,270,975
+Huawei,Watch Ultimate,Smartwatch,545,976
+Samsung,Galaxy Watch Ultra,Smartwatch,64,977
+Samsung,Galaxy Watch 7,Smartwatch,215,978
+Samsung,Galaxy Watch 7,Smartwatch,194,979
+Apple,Watch SE 3,Smartwatch,87,980
+Samsung,Galaxy Watch Ultra,Smartwatch,1156,981
+Huawei,Watch GT 5,Smartwatch,811,982
+Huawei,Watch 5,Smartwatch,190,983
+Samsung,Galaxy Watch 7,Smartwatch,1034,984
+Samsung,Galaxy Watch 7,Smartwatch,1227,985
+Samsung,Galaxy Watch FE,Smartwatch,480,986
+Samsung,Galaxy Watch Ultra,Smartwatch,368,987
+Samsung,Galaxy Watch FE,Smartwatch,1076,988
+Huawei,Watch GT 5,Smartwatch,106,989
+Apple,Watch Series 10,Smartwatch,153,990
+Samsung,Galaxy Watch Ultra,Smartwatch,1022,991
+Garmin,Venu 3,Smartwatch,291,992
+Apple,Watch Series 10,Smartwatch,1065,993
+Huawei,Watch 5,Smartwatch,687,994
+Samsung,Galaxy Watch FE,Smartwatch,1043,995
+Apple,Watch Ultra 2,Smartwatch,85,996
+Samsung,Galaxy Watch FE,Smartwatch,960,997
+Apple,Watch Ultra 2,Smartwatch,1076,998
+Apple,Watch SE 3,Smartwatch,487,999
+Samsung,Galaxy Watch FE,Smartwatch,274,1000
+Huawei,Watch Ultimate,Smartwatch,739,1001
+Huawei,Watch GT 5,Smartwatch,948,1002
+Apple,Watch Series 10,Smartwatch,576,1003
+Apple,Watch Series 10,Smartwatch,587,1004
+Apple,Watch Series 10,Smartwatch,327,1005
+Huawei,Watch GT 5,Smartwatch,1201,1006
+Huawei,Band 9,Smartwatch,1108,1007
+Samsung,Galaxy Watch Ultra,Smartwatch,130,1008
+Samsung,Galaxy Watch FE,Smartwatch,289,1009
+Huawei,Band 9,Smartwatch,297,1010
+Huawei,Band 9,Smartwatch,934,1011
+Garmin,Enduro 3,Smartwatch,1092,1012
+Samsung,Galaxy Watch FE,Smartwatch,415,1013
+Samsung,Galaxy Watch FE,Smartwatch,1199,1014
+Garmin,Fenix 8,Smartwatch,993,1015
+Samsung,Galaxy Watch Ultra,Smartwatch,340,1016
+Samsung,Galaxy Watch 7,Smartwatch,476,1017
+Apple,Watch SE 3,Smartwatch,1173,1018
+Huawei,Watch Ultimate,Smartwatch,915,1019
+Apple,Watch Ultra 2,Smartwatch,1065,1020
+Samsung,Galaxy Watch 7,Smartwatch,1136,1021
+Samsung,Galaxy Watch 7,Smartwatch,627,1022
+Huawei,Watch 5,Smartwatch,587,1023
+Huawei,Band 9,Smartwatch,89,1024
+Huawei,Watch 5,Smartwatch,1025,1025
+Huawei,Watch Ultimate,Smartwatch,308,1026
+Samsung,Galaxy Watch Ultra,Smartwatch,274,1027
+Apple,Watch Series 10,Smartwatch,1025,1028
+Samsung,Galaxy Watch 7,Smartwatch,327,1029
+Garmin,Fenix 8,Smartwatch,396,1030
+Apple,Watch Series 10,Smartwatch,826,1031
+Apple,Watch Ultra 2,Smartwatch,1149,1032
+Huawei,Watch 5,Smartwatch,545,1033
+Garmin,Venu 3,Smartwatch,971,1034
+Samsung,Galaxy Watch 7,Smartwatch,237,1035
+Apple,Watch Ultra 2,Smartwatch,748,1036
+Garmin,Forerunner 965,Smartwatch,818,1037
+Samsung,Galaxy Watch FE,Smartwatch,267,1038
+Samsung,Galaxy Watch Ultra,Smartwatch,1065,1039
+Huawei,Watch GT 5,Smartwatch,1144,1040
+Apple,Watch SE 3,Smartwatch,358,1041
+Huawei,Watch Ultimate,Smartwatch,407,1042
+Samsung,Galaxy Watch 7,Smartwatch,1054,1043
+Huawei,Band 9,Smartwatch,1037,1043
+Samsung,Galaxy Watch 7,Smartwatch,917,1045
+Garmin,Venu 3,Smartwatch,1099,1046
+Samsung,Galaxy Watch 7,Smartwatch,693,1047
+Samsung,Galaxy Watch 7,Smartwatch,690,1048
+Huawei,Watch GT 5,Smartwatch,676,1049
+Samsung,Galaxy Watch Ultra,Smartwatch,1156,1050
+Huawei,Watch GT 5,Smartwatch,378,1051
+Samsung,Galaxy Watch FE,Smartwatch,1225,1052
+Apple,Watch SE 3,Smartwatch,1162,1053
+Apple,Watch Series 10,Smartwatch,79,1054
+Apple,Watch Series 10,Smartwatch,879,1055
+Samsung,Galaxy Watch 7,Smartwatch,91,1056
+Samsung,Galaxy Watch FE,Smartwatch,907,1057
+Apple,Watch Series 10,Smartwatch,736,1058
+Huawei,Watch Ultimate,Smartwatch,708,1059
+Garmin,Venu 3,Smartwatch,966,1060
+Apple,Watch SE 3,Smartwatch,340,1061
+Samsung,Galaxy Watch 7,Smartwatch,945,1062
+Samsung,Galaxy Watch Ultra,Smartwatch,532,1063
+Samsung,Galaxy Watch Ultra,Smartwatch,506,1064
+Huawei,Watch 5,Smartwatch,651,1065
+Huawei,Watch GT 5,Smartwatch,848,1066
+Samsung,Galaxy Watch Ultra,Smartwatch,892,1067
+Samsung,Galaxy Watch Ultra,Smartwatch,365,1068
+Samsung,Galaxy Watch FE,Smartwatch,1043,1069
+Samsung,Galaxy Watch Ultra,Smartwatch,47,1070
+Apple,Watch Ultra 2,Smartwatch,646,1071
+Garmin,Forerunner 965,Smartwatch,418,1072
+Samsung,Galaxy Watch 7,Smartwatch,73,1073
+Apple,Watch SE 3,Smartwatch,950,1074
+Apple,Watch Ultra 2,Smartwatch,445,1075
+Garmin,Venu 3,Smartwatch,748,1076
+Apple,Watch Series 10,Smartwatch,1215,1077
+Apple,Watch Series 10,Smartwatch,833,1078
+Apple,Watch SE 3,Smartwatch,636,1079
+Huawei,Watch GT 5,Smartwatch,1025,1080
+Huawei,Band 9,Smartwatch,28,1081
+Apple,Watch SE 3,Smartwatch,975,1082
+Apple,Watch Ultra 2,Smartwatch,679,1083
+Huawei,Band 9,Smartwatch,732,1084
+Huawei,Watch GT 5,Smartwatch,936,1085
+Apple,Watch Series 10,Smartwatch,841,1086
+Garmin,Fenix 8,Smartwatch,792,1087
+Apple,Watch SE 3,Smartwatch,936,1088
+Garmin,Forerunner 965,Smartwatch,134,1089
+Apple,Watch SE 3,Smartwatch,442,1090
+Garmin,Enduro 3,Smartwatch,73,1091
+Apple,Watch Series 10,Smartwatch,1080,1092
+Huawei,Watch Ultimate,Smartwatch,860,1093
+Garmin,Forerunner 965,Smartwatch,111,1094
+Huawei,Watch Ultimate,Smartwatch,689,1095
+Apple,Watch SE 3,Smartwatch,145,1096
+Apple,Watch Series 10,Smartwatch,660,1097
+Apple,Watch Series 10,Smartwatch,403,1098
+Apple,Watch Ultra 2,Smartwatch,291,1099
+Apple,Watch SE 3,Smartwatch,94,1100
+Huawei,Band 9,Smartwatch,729,1101
+Huawei,Watch 5,Smartwatch,568,1102
+Apple,Watch Series 10,Smartwatch,959,1103
+Garmin,Fenix 8,Smartwatch,1217,1104
+Huawei,Watch GT 5,Smartwatch,1043,1105
+Garmin,Venu 3,Smartwatch,424,1106
+Huawei,Watch GT 5,Smartwatch,308,1107
+Huawei,Watch Ultimate,Smartwatch,158,1108
+Apple,Watch Series 10,Smartwatch,1147,1109
+Apple,Watch Ultra 2,Smartwatch,782,1110
+Apple,Watch Series 10,Smartwatch,1081,1111
+Apple,Watch Ultra 2,Smartwatch,532,1112
+Apple,Watch Ultra 2,Smartwatch,833,1113
+Apple,Watch SE 3,Smartwatch,727,1114
+Apple,Watch SE 3,Smartwatch,611,1115
+Huawei,Watch GT 5,Smartwatch,1221,1116
+Apple,Watch SE 3,Smartwatch,282,1117
+Garmin,Enduro 3,Smartwatch,1072,1118
+Apple,Watch SE 3,Smartwatch,520,1119
+Huawei,Band 9,Smartwatch,538,1120
+Garmin,Forerunner 965,Smartwatch,185,1121
+Apple,Watch SE 3,Smartwatch,1050,1122
+Apple,Watch Series 10,Smartwatch,700,1123
+Apple,Watch Series 10,Smartwatch,1058,1124
+Apple,Watch SE 3,Smartwatch,1131,1125
+Apple,Watch Series 10,Smartwatch,628,1126
+Huawei,Watch Ultimate,Smartwatch,679,1127
+Apple,Watch Series 10,Smartwatch,333,1128
+Apple,Watch Ultra 2,Smartwatch,568,1129
+Apple,Watch Ultra 2,Smartwatch,669,1130
+Huawei,Watch GT 5,Smartwatch,91,1131
+Apple,Watch Ultra 2,Smartwatch,1102,1132
+Garmin,Venu 3,Smartwatch,1192,1133
+Huawei,Watch 5,Smartwatch,538,1134
+Huawei,Band 9,Smartwatch,936,1135
+Huawei,Watch Ultimate,Smartwatch,459,1136
+Apple,Watch Series 10,Smartwatch,23,1137
+Huawei,Band 9,Smartwatch,802,1138
+Garmin,Instinct 2X,Smartwatch,576,1139
+Huawei,Watch 5,Smartwatch,675,1140
+Huawei,Watch GT 5,Smartwatch,490,1141
+Apple,Watch SE 3,Smartwatch,337,1142
+Apple,Watch SE 3,Smartwatch,492,1143
+Apple,Watch Ultra 2,Smartwatch,587,1144
+Apple,Watch Ultra 2,Smartwatch,1037,1145
+Apple,Watch Series 10,Smartwatch,481,1146
+Apple,Watch SE 3,Smartwatch,917,1147
+Garmin,Forerunner 965,Smartwatch,157,1148
+Huawei,Band 9,Smartwatch,700,1149
+Apple,Watch SE 3,Smartwatch,628,1150
+Garmin,Enduro 3,Smartwatch,1162,1151
+Apple,Watch Series 10,Smartwatch,418,1152
+Apple,Watch Ultra 2,Smartwatch,206,1153
+Apple,Watch Series 10,Smartwatch,923,1154
+Huawei,Watch GT 5,Smartwatch,282,1155
+Apple,Watch Ultra 2,Smartwatch,1173,1156
+Apple,Watch Series 10,Smartwatch,634,1157
+Apple,Watch Ultra 2,Smartwatch,613,1158
+Huawei,Band 9,Smartwatch,709,1159
+Apple,Watch Series 10,Smartwatch,179,1160
+Huawei,Watch GT 5,Smartwatch,651,1161
+Huawei,Watch 5,Smartwatch,679,1162
+Huawei,Band 9,Smartwatch,1013,1163
+Huawei,Band 9,Smartwatch,646,1164
+Garmin,Fenix 8,Smartwatch,606,1165
+Huawei,Band 9,Smartwatch,714,1166
+Garmin,Venu 3,Smartwatch,916,1167
+Garmin,Enduro 3,Smartwatch,82,1168
+Apple,Watch Ultra 2,Smartwatch,536,1169
+Huawei,Band 9,Smartwatch,907,1170
+Huawei,Watch GT 5,Smartwatch,885,1171
+Apple,Watch Series 10,Smartwatch,651,1172
+Huawei,Watch 5,Smartwatch,442,1173
+Apple,Watch SE 3,Smartwatch,340,1174
+Garmin,Enduro 3,Smartwatch,762,1175
+Garmin,Venu 3,Smartwatch,869,1176
+Apple,Watch Ultra 2,Smartwatch,779,1177
+Apple,Watch SE 3,Smartwatch,815,1178
+Apple,Watch Series 10,Smartwatch,503,1179
+Garmin,Fenix 8,Smartwatch,177,1180
+Apple,Watch Ultra 2,Smartwatch,581,1181
+Apple,Watch SE 3,Smartwatch,487,1182
+Apple,Watch SE 3,Smartwatch,1141,1183
+Garmin,Forerunner 965,Smartwatch,230,1184
+Apple,Watch SE 3,Smartwatch,1108,1185
+Apple,Watch Ultra 2,Smartwatch,923,1186
+Apple,Watch Series 10,Smartwatch,1207,1187
+Garmin,Fenix 8,Smartwatch,262,1188
+Apple,Watch SE 3,Smartwatch,779,1189
+Apple,Watch SE 3,Smartwatch,1211,1190
+Apple,Watch Series 10,Smartwatch,161,1191
+Apple,Watch Ultra 2,Smartwatch,1092,1192
+Apple,Watch Ultra 2,Smartwatch,530,1193
+Apple,Watch Ultra 2,Smartwatch,890,1194
+Apple,Watch Ultra 2,Smartwatch,125,1195
+Apple,Watch SE 3,Smartwatch,368,1196
+Garmin,Venu 3,Smartwatch,865,1197
+Garmin,Instinct 2X,Smartwatch,676,1198
+Apple,Watch Ultra 2,Smartwatch,1225,1199
+Apple,Watch SE 3,Smartwatch,431,1200
+Apple,Watch Series 10,Smartwatch,807,1201
+Garmin,Venu 3,Smartwatch,731,1202
+Apple,Watch SE 3,Smartwatch,348,1203
+Garmin,Enduro 3,Smartwatch,469,1204
+Apple,Watch SE 3,Smartwatch,1211,1205
+Garmin,Forerunner 965,Smartwatch,106,1206
+Garmin,Fenix 8,Smartwatch,576,1207
+Garmin,Venu 3,Smartwatch,222,1208
+Garmin,Venu 3,Smartwatch,973,1209
+Garmin,Instinct 2X,Smartwatch,61,1210
+Garmin,Enduro 3,Smartwatch,613,1211
+Garmin,Instinct 2X,Smartwatch,848,1212
+Garmin,Forerunner 965,Smartwatch,371,1213
+Garmin,Fenix 8,Smartwatch,879,1214
+Garmin,Fenix 8,Smartwatch,905,1215
+Garmin,Instinct 2X,Smartwatch,515,1216
+Garmin,Enduro 3,Smartwatch,496,1217
+Garmin,Venu 3,Smartwatch,59,1218
+Garmin,Fenix 8,Smartwatch,927,1219
+Garmin,Enduro 3,Smartwatch,127,1220
+Garmin,Instinct 2X,Smartwatch,243,1221
+Garmin,Venu 3,Smartwatch,346,1222
+Garmin,Instinct 2X,Smartwatch,529,1223
+Garmin,Fenix 8,Smartwatch,1102,1224
+Garmin,Venu 3,Smartwatch,809,1225
+Garmin,Enduro 3,Smartwatch,782,1226
+Garmin,Instinct 2X,Smartwatch,12,1227
+Garmin,Fenix 8,Smartwatch,709,1228
+Garmin,Forerunner 965,Smartwatch,354,1229
+Garmin,Enduro 3,Smartwatch,882,1230
+Amazfit,GTS 4,Sports Watch,381,1
+Amazfit,GTR 4,Sports Watch,462,2
+Amazfit,GTR 4,Sports Watch,360,3
+Amazfit,T-Rex 3,Sports Watch,298,4
+Amazfit,GTR 4,Sports Watch,399,5
+Amazfit,T-Rex 3,Sports Watch,235,6
+Amazfit,T-Rex 3,Sports Watch,253,7
+Amazfit,GTS 4,Sports Watch,503,8
+Amazfit,GTS 4,Sports Watch,476,9
+Amazfit,GTS 4,Sports Watch,216,10
+Amazfit,GTR 4,Sports Watch,225,11
+Fitbit,Sense 2,Sports Watch,384,12
+Amazfit,GTS 4,Sports Watch,213,13
+Amazfit,GTR 4,Sports Watch,179,14
+Fitbit,Sense 2,Sports Watch,333,15
+Amazfit,GTR 4,Sports Watch,191,16
+Amazfit,GTS 4,Sports Watch,268,17
+Fitbit,Sense 2,Sports Watch,143,18
+Amazfit,GTR 4,Sports Watch,89,19
+Amazfit,GTR 4,Sports Watch,502,20
+Amazfit,GTS 4,Sports Watch,107,21
+Fitbit,Versa 4,Sports Watch,305,22
+Fitbit,Versa 4,Sports Watch,229,23
+Fitbit,Versa 4,Sports Watch,38,24
+Amazfit,T-Rex 3,Sports Watch,465,25
+Fitbit,Sense 2,Sports Watch,52,26
+Amazfit,T-Rex 3,Sports Watch,121,27
+Amazfit,GTR 4,Sports Watch,357,28
+Fitbit,Sense 2,Sports Watch,481,29
+Amazfit,GTS 4,Sports Watch,291,30
+Amazfit,T-Rex 3,Sports Watch,204,31
+Fitbit,Sense 2,Sports Watch,503,32
+Fitbit,Sense 2,Sports Watch,125,33
+Fitbit,Sense 2,Sports Watch,177,34
+Fitbit,Versa 4,Sports Watch,69,35
+Fitbit,Versa 4,Sports Watch,237,36
+Amazfit,T-Rex 3,Sports Watch,507,37
+Amazfit,T-Rex 3,Sports Watch,303,38
+Amazfit,GTR 4,Sports Watch,376,39
+Amazfit,GTR 4,Sports Watch,70,40
+Amazfit,T-Rex 3,Sports Watch,211,41
+Amazfit,GTS 4,Sports Watch,372,42
+Amazfit,T-Rex 3,Sports Watch,7,43
+Fitbit,Versa 4,Sports Watch,500,44
+Amazfit,T-Rex 3,Sports Watch,287,45
+Amazfit,T-Rex 3,Sports Watch,224,46
+Fitbit,Versa 4,Sports Watch,408,47
+Garmin,Enduro 3,Sports Watch,260,48
+Fitbit,Sense 2,Sports Watch,363,49
+Fitbit,Sense 2,Sports Watch,473,50
+Amazfit,GTS 4,Sports Watch,171,51
+Garmin,Fenix 8,Sports Watch,145,52
+Amazfit,GTS 4,Sports Watch,183,53
+Amazfit,T-Rex 3,Sports Watch,25,54
+Fitbit,Sense 2,Sports Watch,456,55
+Fitbit,Versa 4,Sports Watch,331,56
+Fitbit,Sense 2,Sports Watch,470,57
+Garmin,Venu 3,Sports Watch,445,58
+Garmin,Venu 3,Sports Watch,483,59
+Garmin,Enduro 3,Sports Watch,278,60
+Fitbit,Sense 2,Sports Watch,59,61
+Amazfit,GTR 4,Sports Watch,272,62
+Amazfit,GTR 4,Sports Watch,232,63
+Amazfit,GTR 4,Sports Watch,328,64
+Garmin,Instinct 2X,Sports Watch,418,65
+Garmin,Instinct 2X,Sports Watch,419,66
+Amazfit,GTS 4,Sports Watch,463,67
+Amazfit,T-Rex 3,Sports Watch,20,68
+Amazfit,GTS 4,Sports Watch,309,69
+Amazfit,GTS 4,Sports Watch,193,70
+Amazfit,GTR 4,Sports Watch,424,71
+Amazfit,GTS 4,Sports Watch,12,72
+Amazfit,GTR 4,Sports Watch,33,73
+Fitbit,Versa 4,Sports Watch,253,74
+Amazfit,GTR 4,Sports Watch,506,75
+Amazfit,GTS 4,Sports Watch,251,76
+Amazfit,GTR 4,Sports Watch,438,77
+Amazfit,T-Rex 3,Sports Watch,78,78
+Fitbit,Sense 2,Sports Watch,288,79
+Amazfit,GTS 4,Sports Watch,190,80
+Amazfit,T-Rex 3,Sports Watch,61,81
+Fitbit,Versa 4,Sports Watch,247,82
+Amazfit,T-Rex 3,Sports Watch,139,83
+Amazfit,GTR 4,Sports Watch,458,84
+Fitbit,Sense 2,Sports Watch,428,85
+Fitbit,Versa 4,Sports Watch,289,86
+Garmin,Fenix 8,Sports Watch,48,87
+Amazfit,GTR 4,Sports Watch,29,88
+Amazfit,GTS 4,Sports Watch,349,89
+Garmin,Forerunner 965,Sports Watch,216,90
+Polar,Vantage V3,Sports Watch,318,91
+Withings,Steel HR,Sports Watch,336,92
+Amazfit,T-Rex 3,Sports Watch,149,93
+Amazfit,GTR 4,Sports Watch,160,94
+Withings,ScanWatch 2,Sports Watch,92,95
+Amazfit,GTR 4,Sports Watch,117,96
+Fitbit,Sense 2,Sports Watch,132,97
+Polar,Pacer Pro,Sports Watch,295,98
+Withings,Steel HR,Sports Watch,165,99
+Withings,Steel HR,Sports Watch,52,100
+Amazfit,GTS 4,Sports Watch,123,101
+Fitbit,Versa 4,Sports Watch,130,102
+Polar,Vantage V3,Sports Watch,407,103
+Polar,Pacer Pro,Sports Watch,117,104
+Polar,Pacer Pro,Sports Watch,279,105
+Withings,ScanWatch 2,Sports Watch,455,106
+Fitbit,Versa 4,Sports Watch,52,107
+Polar,Vantage V3,Sports Watch,81,108
+Withings,Steel HR,Sports Watch,99,109
+Polar,Vantage V3,Sports Watch,276,110
+Polar,Vantage V3,Sports Watch,113,111
+Amazfit,GTR 4,Sports Watch,84,112
+Garmin,Forerunner 965,Sports Watch,33,113
+Amazfit,GTR 4,Sports Watch,499,114
+Withings,ScanWatch 2,Sports Watch,394,115
+Amazfit,GTR 4,Sports Watch,165,116
+Fitbit,Versa 4,Sports Watch,399,117
+Amazfit,GTS 4,Sports Watch,361,118
+Garmin,Forerunner 965,Sports Watch,485,119
+Fitbit,Sense 2,Sports Watch,103,120
+Polar,Vantage V3,Sports Watch,283,121
+Amazfit,T-Rex 3,Sports Watch,113,122
+Fitbit,Versa 4,Sports Watch,321,123
+Polar,Vantage V3,Sports Watch,149,124
+Withings,Steel HR,Sports Watch,397,125
+Amazfit,GTR 4,Sports Watch,10,126
+Garmin,Fenix 8,Sports Watch,490,127
+Polar,Vantage V3,Sports Watch,51,128
+Amazfit,GTR 4,Sports Watch,257,129
+Withings,Steel HR,Sports Watch,76,130
+Amazfit,T-Rex 3,Sports Watch,225,131
+Fitbit,Sense 2,Sports Watch,281,132
+Polar,Pacer Pro,Sports Watch,297,133
+Fitbit,Versa 4,Sports Watch,105,134
+Polar,Pacer Pro,Sports Watch,483,135
+Amazfit,GTS 4,Sports Watch,117,136
+Withings,ScanWatch 2,Sports Watch,365,137
+Withings,ScanWatch 2,Sports Watch,135,138
+Polar,Vantage V3,Sports Watch,410,139
+Amazfit,GTS 4,Sports Watch,109,140
+Garmin,Instinct 2X,Sports Watch,359,141
+Polar,Pacer Pro,Sports Watch,436,142
+Polar,Pacer Pro,Sports Watch,442,143
+Withings,ScanWatch 2,Sports Watch,261,144
+Withings,ScanWatch 2,Sports Watch,73,145
+Fitbit,Versa 4,Sports Watch,378,146
+Fitbit,Sense 2,Sports Watch,61,147
+Polar,Pacer Pro,Sports Watch,90,148
+Amazfit,GTR 4,Sports Watch,493,149
+Fitbit,Sense 2,Sports Watch,275,150
+Withings,ScanWatch 2,Sports Watch,273,151
+Amazfit,T-Rex 3,Sports Watch,475,152
+Withings,ScanWatch 2,Sports Watch,46,153
+Withings,ScanWatch 2,Sports Watch,22,154
+Polar,Pacer Pro,Sports Watch,428,155
+Withings,Steel HR,Sports Watch,129,156
+Withings,Steel HR,Sports Watch,314,157
+Withings,ScanWatch 2,Sports Watch,92,158
+Amazfit,GTS 4,Sports Watch,188,159
+Polar,Vantage V3,Sports Watch,371,160
+Fitbit,Sense 2,Sports Watch,453,161
+Amazfit,GTR 4,Sports Watch,388,161
+Withings,ScanWatch 2,Sports Watch,81,163
+Amazfit,GTR 4,Sports Watch,244,164
+Amazfit,GTR 4,Sports Watch,497,165
+Fitbit,Sense 2,Sports Watch,285,166
+Amazfit,T-Rex 3,Sports Watch,149,167
+Garmin,Forerunner 965,Sports Watch,497,168
+Amazfit,GTS 4,Sports Watch,163,169
+Fitbit,Versa 4,Sports Watch,495,170
+Polar,Pacer Pro,Sports Watch,303,171
+Amazfit,GTR 4,Sports Watch,505,172
+Fitbit,Versa 4,Sports Watch,372,173
+Garmin,Fenix 8,Sports Watch,180,174
+Fitbit,Sense 2,Sports Watch,493,175
+Amazfit,T-Rex 3,Sports Watch,139,176
+Amazfit,T-Rex 3,Sports Watch,415,177
+Amazfit,GTR 4,Sports Watch,183,178
+Garmin,Instinct 2X,Sports Watch,259,179
+Polar,Vantage V3,Sports Watch,298,180
+Garmin,Instinct 2X,Sports Watch,175,181
+Polar,Vantage V3,Sports Watch,478,182
+Amazfit,T-Rex 3,Sports Watch,291,183
+Fitbit,Sense 2,Sports Watch,47,184
+Withings,Steel HR,Sports Watch,168,185
+Garmin,Fenix 8,Sports Watch,263,186
+Amazfit,GTR 4,Sports Watch,512,187
+Withings,ScanWatch 2,Sports Watch,404,188
+Fitbit,Sense 2,Sports Watch,372,189
+Amazfit,T-Rex 3,Sports Watch,75,190
+Withings,Steel HR,Sports Watch,9,191
+Polar,Pacer Pro,Sports Watch,121,192
+Withings,ScanWatch 2,Sports Watch,485,193
+Fitbit,Sense 2,Sports Watch,181,194
+Amazfit,T-Rex 3,Sports Watch,128,195
+Polar,Pacer Pro,Sports Watch,369,196
+Fitbit,Versa 4,Sports Watch,146,197
+Amazfit,GTS 4,Sports Watch,197,198
+Garmin,Enduro 3,Sports Watch,204,199
+Polar,Vantage V3,Sports Watch,11,200
+Fitbit,Versa 4,Sports Watch,39,201
+Amazfit,T-Rex 3,Sports Watch,212,202
+Withings,Steel HR,Sports Watch,83,203
+Withings,Steel HR,Sports Watch,385,204
+Polar,Pacer Pro,Sports Watch,381,205
+Amazfit,GTS 4,Sports Watch,348,206
+Withings,Steel HR,Sports Watch,191,207
+Fitbit,Versa 4,Sports Watch,173,208
+Polar,Pacer Pro,Sports Watch,101,209
+Withings,ScanWatch 2,Sports Watch,61,210
+Polar,Pacer Pro,Sports Watch,76,211
+Amazfit,T-Rex 3,Sports Watch,312,212
+Fitbit,Sense 2,Sports Watch,50,213
+Amazfit,GTR 4,Sports Watch,61,214
+Fitbit,Sense 2,Sports Watch,39,215
+Polar,Vantage V3,Sports Watch,307,216
+Withings,ScanWatch 2,Sports Watch,72,217
+Polar,Pacer Pro,Sports Watch,413,218
+Polar,Vantage V3,Sports Watch,432,219
+Withings,Steel HR,Sports Watch,405,220
+Fitbit,Versa 4,Sports Watch,97,221
+Withings,ScanWatch 2,Sports Watch,439,222
+Fitbit,Versa 4,Sports Watch,307,223
+Amazfit,GTS 4,Sports Watch,321,224
+Amazfit,T-Rex 3,Sports Watch,183,225
+Polar,Vantage V3,Sports Watch,351,226
+Fitbit,Versa 4,Sports Watch,454,227
+Amazfit,T-Rex 3,Sports Watch,482,228
+Fitbit,Sense 2,Sports Watch,266,229
+Withings,ScanWatch 2,Sports Watch,289,230
+Withings,Steel HR,Sports Watch,207,231
+Polar,Vantage V3,Sports Watch,31,232
+Garmin,Fenix 8,Sports Watch,199,233
+Fitbit,Versa 4,Sports Watch,241,233
+Garmin,Forerunner 965,Sports Watch,2,235
+Polar,Vantage V3,Sports Watch,48,236
+Withings,Steel HR,Sports Watch,200,237
+Fitbit,Sense 2,Sports Watch,167,238
+Polar,Pacer Pro,Sports Watch,386,239
+Garmin,Venu 3,Sports Watch,276,240
+Polar,Pacer Pro,Sports Watch,102,241
+Fitbit,Versa 4,Sports Watch,478,242
+Garmin,Enduro 3,Sports Watch,214,243
+Garmin,Forerunner 965,Sports Watch,463,244
+Fitbit,Versa 4,Sports Watch,439,245
+Withings,ScanWatch 2,Sports Watch,428,246
+Polar,Vantage V3,Sports Watch,365,247
+Withings,ScanWatch 2,Sports Watch,509,248
+Polar,Vantage V3,Sports Watch,342,249
+Garmin,Fenix 8,Sports Watch,237,250
+Fitbit,Sense 2,Sports Watch,427,251
+Fitbit,Sense 2,Sports Watch,268,252
+Fitbit,Versa 4,Sports Watch,444,253
+Polar,Pacer Pro,Sports Watch,432,254
+Polar,Pacer Pro,Sports Watch,131,255
+Garmin,Forerunner 965,Sports Watch,207,256
+Withings,ScanWatch 2,Sports Watch,399,257
+Withings,ScanWatch 2,Sports Watch,35,258
+Fitbit,Versa 4,Sports Watch,465,259
+Polar,Pacer Pro,Sports Watch,220,260
+Withings,Steel HR,Sports Watch,117,261
+Fitbit,Versa 4,Sports Watch,344,262
+Withings,Steel HR,Sports Watch,245,263
+Garmin,Venu 3,Sports Watch,243,264
+Withings,ScanWatch 2,Sports Watch,32,265
+Withings,Steel HR,Sports Watch,378,266
+Garmin,Enduro 3,Sports Watch,417,267
+Polar,Vantage V3,Sports Watch,110,268
+Withings,Steel HR,Sports Watch,434,269
+Withings,ScanWatch 2,Sports Watch,116,270
+Withings,Steel HR,Sports Watch,316,271
+Polar,Pacer Pro,Sports Watch,221,272
+Garmin,Forerunner 965,Sports Watch,107,273
+Withings,ScanWatch 2,Sports Watch,378,274
+Withings,ScanWatch 2,Sports Watch,68,275
+Withings,ScanWatch 2,Sports Watch,100,276
+Polar,Pacer Pro,Sports Watch,342,277
+Polar,Vantage V3,Sports Watch,202,278
+Withings,ScanWatch 2,Sports Watch,449,279
+Polar,Pacer Pro,Sports Watch,94,280
+Polar,Pacer Pro,Sports Watch,5,281
+Garmin,Fenix 8,Sports Watch,137,282
+Polar,Pacer Pro,Sports Watch,513,283
+Polar,Vantage V3,Sports Watch,27,284
+Polar,Vantage V3,Sports Watch,153,285
+Garmin,Forerunner 965,Sports Watch,158,286
+Withings,ScanWatch 2,Sports Watch,103,287
+Polar,Vantage V3,Sports Watch,473,288
+Garmin,Venu 3,Sports Watch,395,289
+Polar,Pacer Pro,Sports Watch,86,290
+Withings,Steel HR,Sports Watch,234,291
+Polar,Vantage V3,Sports Watch,351,292
+Withings,ScanWatch 2,Sports Watch,164,293
+Polar,Pacer Pro,Sports Watch,443,294
+Polar,Pacer Pro,Sports Watch,216,295
+Polar,Vantage V3,Sports Watch,264,296
+Withings,ScanWatch 2,Sports Watch,221,297
+Garmin,Fenix 8,Sports Watch,295,298
+Polar,Vantage V3,Sports Watch,189,299
+Polar,Pacer Pro,Sports Watch,57,300
+Withings,ScanWatch 2,Sports Watch,39,301
+Garmin,Instinct 2X,Sports Watch,377,302
+Withings,Steel HR,Sports Watch,301,303
+Withings,ScanWatch 2,Sports Watch,369,304
+Withings,ScanWatch 2,Sports Watch,2,305
+Polar,Vantage V3,Sports Watch,480,306
+Polar,Pacer Pro,Sports Watch,7,307
+Garmin,Venu 3,Sports Watch,459,308
+Polar,Pacer Pro,Sports Watch,468,309
+Polar,Vantage V3,Sports Watch,154,310
+Withings,ScanWatch 2,Sports Watch,415,311
+Withings,Steel HR,Sports Watch,365,312
+Withings,Steel HR,Sports Watch,298,313
+Polar,Vantage V3,Sports Watch,204,314
+Withings,ScanWatch 2,Sports Watch,457,315
+Withings,Steel HR,Sports Watch,19,316
+Withings,ScanWatch 2,Sports Watch,125,317
+Withings,ScanWatch 2,Sports Watch,395,318
+Polar,Vantage V3,Sports Watch,239,319
+Polar,Vantage V3,Sports Watch,135,320
+Withings,Steel HR,Sports Watch,66,321
+Withings,Steel HR,Sports Watch,392,322
+Withings,Steel HR,Sports Watch,2,323
+Polar,Vantage V3,Sports Watch,202,324
+Withings,ScanWatch 2,Sports Watch,194,325
+Polar,Vantage V3,Sports Watch,253,326
+Polar,Vantage V3,Sports Watch,154,327
+Garmin,Enduro 3,Sports Watch,338,328
+Withings,Steel HR,Sports Watch,24,329
+Polar,Vantage V3,Sports Watch,246,330
+Polar,Vantage V3,Sports Watch,419,331
+Withings,Steel HR,Sports Watch,285,332
+Withings,Steel HR,Sports Watch,325,333
+Polar,Vantage V3,Sports Watch,257,334
+Withings,Steel HR,Sports Watch,329,335
+Withings,ScanWatch 2,Sports Watch,314,336
+Polar,Pacer Pro,Sports Watch,152,337
+Withings,Steel HR,Sports Watch,13,338
+Withings,Steel HR,Sports Watch,146,339
+Garmin,Fenix 8,Sports Watch,71,340
+Polar,Vantage V3,Sports Watch,1,341
+Garmin,Forerunner 965,Sports Watch,13,342
+Polar,Pacer Pro,Sports Watch,405,343
+Polar,Pacer Pro,Sports Watch,353,344
+Withings,ScanWatch 2,Sports Watch,186,345
+Polar,Vantage V3,Sports Watch,469,346
+Withings,ScanWatch 2,Sports Watch,353,347
+Polar,Vantage V3,Sports Watch,159,348
+Polar,Pacer Pro,Sports Watch,338,349
+Polar,Vantage V3,Sports Watch,13,350
+Polar,Pacer Pro,Sports Watch,332,351
+Polar,Pacer Pro,Sports Watch,423,352
+Polar,Pacer Pro,Sports Watch,95,353
+Garmin,Instinct 2X,Sports Watch,42,354
+Withings,Steel HR,Sports Watch,175,355
+Polar,Vantage V3,Sports Watch,78,356
+Withings,Steel HR,Sports Watch,43,357
+Withings,Steel HR,Sports Watch,194,358
+Polar,Vantage V3,Sports Watch,214,359
+Polar,Vantage V3,Sports Watch,18,360
+Polar,Pacer Pro,Sports Watch,139,361
+Polar,Pacer Pro,Sports Watch,194,362
+Withings,ScanWatch 2,Sports Watch,291,363
+Garmin,Forerunner 965,Sports Watch,368,364
+Polar,Vantage V3,Sports Watch,13,365
+Garmin,Enduro 3,Sports Watch,445,366
+Withings,Steel HR,Sports Watch,169,367
+Garmin,Forerunner 965,Sports Watch,253,368
+Withings,ScanWatch 2,Sports Watch,229,369
+Garmin,Forerunner 965,Sports Watch,306,370
+Polar,Vantage V3,Sports Watch,426,371
+Withings,ScanWatch 2,Sports Watch,488,372
+Garmin,Venu 3,Sports Watch,162,373
+Polar,Vantage V3,Sports Watch,399,374
+Withings,ScanWatch 2,Sports Watch,313,375
+Garmin,Enduro 3,Sports Watch,347,376
+Garmin,Enduro 3,Sports Watch,197,377
+Withings,Steel HR,Sports Watch,133,378
+Garmin,Enduro 3,Sports Watch,78,379
+Withings,ScanWatch 2,Sports Watch,229,380
+Polar,Vantage V3,Sports Watch,37,381
+Withings,Steel HR,Sports Watch,143,382
+Garmin,Fenix 8,Sports Watch,5,383
+Withings,ScanWatch 2,Sports Watch,392,384
+Garmin,Forerunner 965,Sports Watch,84,385
+Withings,ScanWatch 2,Sports Watch,349,386
+Garmin,Instinct 2X,Sports Watch,357,387
+Withings,Steel HR,Sports Watch,452,388
+Garmin,Fenix 8,Sports Watch,321,389
+Polar,Pacer Pro,Sports Watch,242,390
+Withings,Steel HR,Sports Watch,490,391
+Polar,Vantage V3,Sports Watch,361,392
+Polar,Vantage V3,Sports Watch,325,393
+Garmin,Forerunner 965,Sports Watch,106,394
+Withings,Steel HR,Sports Watch,44,395
+Garmin,Forerunner 965,Sports Watch,223,396
+Polar,Vantage V3,Sports Watch,268,397
+Withings,Steel HR,Sports Watch,336,398
+Polar,Vantage V3,Sports Watch,283,399
+Garmin,Enduro 3,Sports Watch,249,400
+Withings,ScanWatch 2,Sports Watch,422,401
+Polar,Vantage V3,Sports Watch,251,402
+Withings,Steel HR,Sports Watch,88,403
+Withings,Steel HR,Sports Watch,154,404
+Withings,ScanWatch 2,Sports Watch,250,405
+Polar,Pacer Pro,Sports Watch,27,406
+Garmin,Venu 3,Sports Watch,171,407
+Withings,ScanWatch 2,Sports Watch,25,408
+Polar,Vantage V3,Sports Watch,98,409
+Garmin,Venu 3,Sports Watch,91,410
+Garmin,Instinct 2X,Sports Watch,96,411
+Garmin,Venu 3,Sports Watch,509,412
+Polar,Pacer Pro,Sports Watch,142,413
+Polar,Vantage V3,Sports Watch,310,414
+Withings,ScanWatch 2,Sports Watch,111,415
+Polar,Pacer Pro,Sports Watch,248,416
+Withings,ScanWatch 2,Sports Watch,490,417
+Withings,Steel HR,Sports Watch,182,418
+Polar,Pacer Pro,Sports Watch,381,419
+Withings,Steel HR,Sports Watch,330,420
+Withings,ScanWatch 2,Sports Watch,413,421
+Withings,ScanWatch 2,Sports Watch,388,422
+Polar,Vantage V3,Sports Watch,127,423
+Polar,Pacer Pro,Sports Watch,355,424
+Polar,Vantage V3,Sports Watch,335,425
+Withings,Steel HR,Sports Watch,22,426
+Garmin,Enduro 3,Sports Watch,281,427
+Withings,Steel HR,Sports Watch,509,428
+Withings,Steel HR,Sports Watch,428,429
+Withings,ScanWatch 2,Sports Watch,344,430
+Polar,Vantage V3,Sports Watch,301,431
+Polar,Vantage V3,Sports Watch,356,432
+Polar,Vantage V3,Sports Watch,387,433
+Polar,Vantage V3,Sports Watch,291,434
+Polar,Vantage V3,Sports Watch,325,435
+Garmin,Enduro 3,Sports Watch,397,436
+Withings,Steel HR,Sports Watch,311,437
+Withings,ScanWatch 2,Sports Watch,485,438
+Polar,Pacer Pro,Sports Watch,320,439
+Withings,ScanWatch 2,Sports Watch,334,440
+Withings,ScanWatch 2,Sports Watch,500,441
+Garmin,Forerunner 965,Sports Watch,265,442
+Garmin,Forerunner 965,Sports Watch,388,443
+Garmin,Instinct 2X,Sports Watch,29,444
+Garmin,Instinct 2X,Sports Watch,201,445
+Garmin,Enduro 3,Sports Watch,467,446
+Garmin,Forerunner 965,Sports Watch,448,447
+Garmin,Enduro 3,Sports Watch,476,448
+Garmin,Enduro 3,Sports Watch,232,449
+Garmin,Venu 3,Sports Watch,375,450
+Garmin,Instinct 2X,Sports Watch,177,451
+Garmin,Forerunner 965,Sports Watch,344,452
+Garmin,Venu 3,Sports Watch,187,453
+Garmin,Instinct 2X,Sports Watch,460,454
+Garmin,Venu 3,Sports Watch,410,455
+Garmin,Enduro 3,Sports Watch,115,456
+Garmin,Forerunner 965,Sports Watch,55,457
+Garmin,Venu 3,Sports Watch,55,458
+Garmin,Enduro 3,Sports Watch,273,459
+Garmin,Enduro 3,Sports Watch,266,460
+Garmin,Fenix 8,Sports Watch,318,461
+Garmin,Enduro 3,Sports Watch,235,462
+Garmin,Enduro 3,Sports Watch,45,463
+Garmin,Venu 3,Sports Watch,403,464
+Garmin,Venu 3,Sports Watch,268,465
+Garmin,Instinct 2X,Sports Watch,338,466
+Garmin,Instinct 2X,Sports Watch,219,467
+Garmin,Venu 3,Sports Watch,447,468
+Garmin,Forerunner 965,Sports Watch,437,469
+Garmin,Enduro 3,Sports Watch,157,470
+Garmin,Enduro 3,Sports Watch,450,471
+Garmin,Enduro 3,Sports Watch,73,472
+Garmin,Fenix 8,Sports Watch,338,473
+Garmin,Instinct 2X,Sports Watch,262,474
+Garmin,Forerunner 965,Sports Watch,488,475
+Garmin,Forerunner 965,Sports Watch,134,476
+Garmin,Enduro 3,Sports Watch,138,477
+Garmin,Forerunner 965,Sports Watch,17,478
+Garmin,Forerunner 965,Sports Watch,61,479
+Garmin,Instinct 2X,Sports Watch,421,480
+Garmin,Venu 3,Sports Watch,460,481
+Garmin,Enduro 3,Sports Watch,66,482
+Garmin,Instinct 2X,Sports Watch,225,483
+Garmin,Forerunner 965,Sports Watch,123,484
+Garmin,Venu 3,Sports Watch,60,485
+Garmin,Venu 3,Sports Watch,146,486
+Garmin,Fenix 8,Sports Watch,364,487
+Garmin,Fenix 8,Sports Watch,439,488
+Garmin,Fenix 8,Sports Watch,225,489
+Garmin,Instinct 2X,Sports Watch,280,490
+Garmin,Instinct 2X,Sports Watch,240,491
+Garmin,Instinct 2X,Sports Watch,508,492
+Garmin,Enduro 3,Sports Watch,495,493
+Garmin,Enduro 3,Sports Watch,472,494
+Garmin,Instinct 2X,Sports Watch,321,495
+Garmin,Instinct 2X,Sports Watch,207,496
+Garmin,Instinct 2X,Sports Watch,174,497
+Garmin,Instinct 2X,Sports Watch,20,498
+Garmin,Instinct 2X,Sports Watch,111,499
+Garmin,Forerunner 965,Sports Watch,87,500
+Garmin,Enduro 3,Sports Watch,409,501
+Garmin,Instinct 2X,Sports Watch,388,502
+Garmin,Instinct 2X,Sports Watch,410,503
+Garmin,Enduro 3,Sports Watch,169,504
+Garmin,Instinct 2X,Sports Watch,425,505
+Garmin,Fenix 8,Sports Watch,470,506
+Garmin,Venu 3,Sports Watch,434,507
+Garmin,Fenix 8,Sports Watch,160,508
+Garmin,Fenix 8,Sports Watch,58,509
+Garmin,Forerunner 965,Sports Watch,207,510
+Garmin,Instinct 2X,Sports Watch,316,511
+Garmin,Instinct 2X,Sports Watch,450,512
+Garmin,Fenix 8,Sports Watch,35,513
